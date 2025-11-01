@@ -17,6 +17,9 @@ Os ícones e shapes utilizados neste projeto são provenientes do repositório o
 - **Priorização de Tamanhos**: Seleciona automaticamente o melhor tamanho (M > L > S)
 - **Divisão Automática**: Divide bibliotecas com mais de 30 ícones em múltiplas partes
 - **Índice Completo**: Gera índices em JSON e CSV para fácil localização dos ícones
+- **Catálogo Visual**: Gera catálogo visual em Markdown (`ICON_CATALOG.md` e `ICON_GALLERY.md`)
+- **Extração SVG Avançada**: Suporte a múltiplos formatos de SVG embedados
+- **Validação de Qualidade**: Verifica integridade dos SVGs extraídos
 
 ## 📁 Estrutura do Projeto
 
@@ -49,7 +52,7 @@ sap-gliffy-shapes/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/sap-gliffy-shapes.git
+git clone https://github.com/lrcherubini/sap-gliffy-shapes.git
 cd sap-gliffy-shapes
 ```
 
@@ -62,43 +65,78 @@ npm install
 
 ## 🔧 Uso
 
-### Extração e Organização Automática
+### Scripts Disponíveis
 
-Execute o script principal:
-
+1. **Extração e Organização** (`extrair_e_organizar.js`):
 ```bash
 node extrair_e_organizar.js
 ```
+- Processa arquivos XML em `assets/shape-libraries-and-editable-presets/draw.io/`
+- Extrai e categoriza os ícones SVG
+- Organiza em bibliotecas de até 30 ícones
+- Gera índices JSON e CSV
 
-O script irá:
-1. Procurar arquivos XML em `assets/shape-libraries-and-editable-presets/draw.io/`
-2. Extrair os ícones SVG de cada arquivo
-3. Categorizar automaticamente baseado no nome/caminho
-4. Priorizar tamanho M (ou L/S se M não estiver disponível)
-5. Organizar em pastas com máximo de 30 ícones cada
-6. Gerar índices para localização fácil
+2. **Extração SVG Bruta** (`extrair_svgs.js`):
+```bash
+node extrair_svgs.js
+```
+- Extrai todos os SVGs em sua forma original
+- Salva em `icones_para_gliffy_extraidos/`
+- Útil para debug ou análise manual
 
-### Saída
+3. **Geração de Catálogo** (`gerar_catalogo.js`):
+```bash
+node gerar_catalogo.js
+```
+- Gera `ICON_CATALOG.md` com listagem categorizada
+- Cria `ICON_GALLERY.md` com preview visual dos ícones
+- Inclui estatísticas e metadados
 
-Os ícones organizados serão salvos em `gliffy_libraries/` com:
-- Pastas categorizadas com no máximo 30 ícones cada
-- Arquivo `index.json` com metadados completos
-- Arquivo `index.csv` para visualização em Excel
+### Arquivos de Saída
+
+O processo gera os seguintes arquivos:
+
+1. **Bibliotecas Gliffy** (`gliffy_libraries/`):
+   - Pastas categorizadas (máx. 30 ícones)
+   - SVGs otimizados para Gliffy
+
+2. **Índices**:
+   - `index.json`: Metadados completos em JSON
+   - `index.csv`: Planilha para Excel/visualização
+
+3. **Catálogos**:
+   - `ICON_CATALOG.md`: Lista categorizada
+   - `ICON_GALLERY.md`: Galeria visual
 
 ## 📊 Categorias de Ícones
 
 O script organiza automaticamente os ícones nas seguintes categorias:
 
-- **foundational**: Serviços fundamentais do SAP BTP
-- **integration-suite**: API Management, Cloud Integration, Event Mesh
-- **app-dev-automation**: SAP Build, Work Zone, Business Application Studio
-- **data-analytics**: Analytics Cloud, HANA Cloud, Datasphere
-- **ai**: AI Core, AI Launchpad, Document Information Extraction
-- **btp-saas**: Aplicações SaaS no BTP
-- **generic-icons**: Ícones genéricos (user, web, cloud, etc.)
-- **sap-brands**: Logos SAP (Ariba, Concur, SuccessFactors, etc.)
-- **essentials**: Elementos essenciais de diagramação
-- **misc**: Outros ícones não categorizados
+- 🔧 **foundational**: Serviços fundamentais do SAP BTP
+- 🔗 **integration-suite**: API Management, Cloud Integration, Event Mesh
+- ⚙️ **app-dev-automation**: SAP Build, Work Zone, Business Application Studio
+- 📊 **data-analytics**: Analytics Cloud, HANA Cloud, Datasphere
+- 🤖 **ai**: AI Core, AI Launchpad, Document Information Extraction
+- ☁️ **btp-saas**: Aplicações SaaS no BTP
+- 📦 **generic-icons**: Ícones genéricos (user, web, cloud, etc.)
+- 💙 **sap-brands**: Logos SAP (Ariba, Concur, SuccessFactors, etc.)
+- ✨ **essentials**: Elementos essenciais de diagramação
+- 🔐 **security-identity**: Serviços de segurança e identidade
+- 🌐 **connectivity**: Conectividade e integração
+- 👁️ **observability**: Monitoramento e observabilidade
+- 🚀 **devops**: Ferramentas e serviços DevOps
+- 📌 **misc**: Outros ícones não categorizados
+
+### Exemplos de Diagramas
+
+A pasta `assets/editable-diagram-examples/` contém exemplos práticos de diagramas utilizando os ícones:
+
+- SAP Build Process Automation
+- SAP Build Work Zone
+- SAP Cloud Identity Services
+- SAP Private Link Service
+- SAP Task Center
+- E muito mais
 
 ## 🎨 Importação no Gliffy
 
@@ -113,12 +151,33 @@ Para usar as bibliotecas no Gliffy:
 
 ## 📝 Configurações
 
-Você pode ajustar as seguintes configurações no script:
+### Configurações Principais
 
+Ajuste as configurações nos scripts conforme necessário:
+
+1. **extrair_e_organizar.js**:
 ```javascript
 const MAX_ICONS_PER_LIBRARY = 30;  // Máximo de ícones por biblioteca
 const OUTPUT_BASE_DIR = path.join(__dirname, 'gliffy_libraries');  // Diretório de saída
 ```
+
+2. **extrair_svgs.js**:
+```javascript
+const outputDir = path.join(__dirname, 'icones_para_gliffy_extraidos');  // Diretório SVGs brutos
+```
+
+3. **gerar_catalogo.js**:
+```javascript
+const LIBRARIES_DIR = path.join(__dirname, 'gliffy_libraries');  // Diretório das bibliotecas
+const OUTPUT_FILE = path.join(__dirname, 'ICON_CATALOG.md');  // Arquivo de catálogo
+```
+
+### Considerações de Uso
+
+- **Tamanho das Bibliotecas**: O limite de 30 ícones é uma restrição do Gliffy
+- **Formatos Suportados**: SVG embedado em XML ou base64
+- **Prioridade de Tamanhos**: M > L > S para melhor visualização
+- **Nomes de Arquivos**: Automaticamente sanitizados para compatibilidade
 
 ## 🤝 Contribuindo
 
@@ -146,7 +205,18 @@ O código de extração e organização deste projeto também está disponível 
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 ![Node](https://img.shields.io/badge/node-%3E%3D14.0-brightgreen)
 ![License](https://img.shields.io/badge/license-Apache%202.0-blue)
+![Last Update](https://img.shields.io/badge/última%20atualização-Novembro%202025-blue)
+
+### Recursos Adicionais
+
+- 📚 [ICON_CATALOG.md](ICON_CATALOG.md): Catálogo detalhado de ícones
+- 🖼️ [ICON_GALLERY.md](ICON_GALLERY.md): Galeria visual de ícones
+- 📋 [assets/README.md](assets/README.md): Documentação dos assets originais
+- 🎨 [shape-libraries-and-editable-presets/README.md](assets/shape-libraries-and-editable-presets/README.md): Guia das bibliotecas
+- 🔍 [gliffy_libraries/index.csv](gliffy_libraries/index.csv): Índice pesquisável
 
 ---
 
-**Nota**: Este projeto não é afiliado oficialmente à SAP ou ao Gliffy. É uma ferramenta comunitária para facilitar o uso dos ícones SAP BTP em diagramas Gliffy.
+**Nota**: Este projeto não é afiliado oficialmente à SAP ou ao Gliffy. É uma ferramenta comunitária para facilitar o uso dos ícones SAP BTP em diagramas Gliffy. 
+
+**Data da última atualização**: Novembro 2025
