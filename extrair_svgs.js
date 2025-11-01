@@ -48,10 +48,10 @@ function decodeHtmlEntities(text) {
 /**
  * Extrai SVG de diferentes formatos de objetos
  */
-function extractSVGFromShape(shape) {
+function extractSVGFromShape(shape, sourceFile = '') {
   let title = null;
   let svgContent = null;
-  
+
   // Formato 1: XML embedado (como no exemplo que você passou)
   if (shape.xml) {
     // Decodifica o XML primeiro
@@ -161,7 +161,7 @@ function convertLibraries() {
     console.log(`Encontrados ${libraryFiles.length} arquivos de biblioteca .xml para processar.`);
 
     let totalIcons = 0;
-    const seenTitles = new Set(); // Para evitar salvar ícones duplicados
+    const seenIconKeys = new Set(); // Para evitar salvar ícones duplicados (título + arquivo)
 
     // 3. Processar cada arquivo de biblioteca
     for (const file of libraryFiles) {
@@ -169,6 +169,7 @@ function convertLibraries() {
 
       try {
         const xmlData = fs.readFileSync(file, 'utf8');
+        const fileName = path.basename(file, '.xml');
 
         // 4. Extrair o conteúdo JSON de dentro da tag <mxlibrary>
         const match = xmlData.match(/<mxlibrary>(.*?)<\/mxlibrary>/s);
@@ -197,25 +198,36 @@ function convertLibraries() {
         
         let iconsInFile = 0;
 
+        // Extrai o indicador de tamanho do nome do arquivo (size-S, size-M, size-L)
+        const sizeMatch = fileName.match(/size-([SML])/i);
+        const sizeIndicator = sizeMatch ? sizeMatch[1].toUpperCase() : '';
+
         // 8. Extrair e salvar cada SVG
         for (const shape of library) {
-          const { title, svgContent } = extractSVGFromShape(shape);
-          
+          const { title, svgContent } = extractSVGFromShape(shape, fileName);
+
           // Verifica se conseguiu extrair título e SVG
           if (title && svgContent) {
+            // Cria uma chave única combinando título e tamanho
+            const iconKey = sizeIndicator ? `${title}-${sizeIndicator}` : title;
+
             // Evita ícones duplicados
-            if (seenTitles.has(title)) {
+            if (seenIconKeys.has(iconKey)) {
               continue;
             }
-            seenTitles.add(title);
+            seenIconKeys.add(iconKey);
 
             // Limpa o nome do arquivo
-            const filename = title
+            let cleanTitle = title
               .replace(/[^a-z0-9\s-]/gi, '')
               .replace(/[\s_]+/g, '-')
               .toLowerCase()
-              .replace(/^-+|-+$/g, '') // Remove hífens do início e fim
-              + '.svg';
+              .replace(/^-+|-+$/g, ''); // Remove hífens do início e fim
+
+            // Adiciona o indicador de tamanho ao nome do arquivo, se existir
+            const filename = sizeIndicator
+              ? `${cleanTitle}-${sizeIndicator}.svg`
+              : `${cleanTitle}.svg`;
             
             try {
               // Salva o arquivo .svg
