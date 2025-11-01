@@ -56,15 +56,25 @@ function extractSVGFromShape(shape, sourceFile = '') {
   if (shape.xml) {
     // Decodifica o XML primeiro
     const decodedXml = decodeHtmlEntities(shape.xml);
-    
-    // Extrai o título do value no XML
-    const titleMatch = decodedXml.match(/value="([^"]+)"/);
-    if (titleMatch) {
-      title = titleMatch[1]
-        .replace(/\s*&#10;\s*/g, ' ')
-        .replace(/\s*\n\s*/g, ' ')
+
+    // Tenta extrair o título do campo title primeiro (para logos SAP)
+    if (shape.title) {
+      title = shape.title
+        .replace(/\s*\(.*?\)\s*/g, '') // Remove (Default), (Text Only), etc.
         .replace(/[^a-z0-9\s-]/gi, '')
         .trim();
+    }
+
+    // Se não tiver campo title, extrai do value no XML
+    if (!title) {
+      const titleMatch = decodedXml.match(/value="([^"]+)"/);
+      if (titleMatch) {
+        title = titleMatch[1]
+          .replace(/\s*&#10;\s*/g, ' ')
+          .replace(/\s*\n\s*/g, ' ')
+          .replace(/[^a-z0-9\s-]/gi, '')
+          .trim();
+      }
     }
     
     // Tenta extrair SVG de diferentes formatos
