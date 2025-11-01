@@ -1,0 +1,4394 @@
+[
+  {
+    "file": "10004-document-information-extractionsd.svg",
+    "title": "10004-document-information-extractionsd",
+    "category": "ai",
+    "library": "ai",
+    "size": "M",
+    "path": "ai/10004-document-information-extractionsd.svg"
+  },
+  {
+    "file": "10010-personalized-recommendationsd.svg",
+    "title": "10010-personalized-recommendationsd",
+    "category": "ai",
+    "library": "ai",
+    "size": "M",
+    "path": "ai/10010-personalized-recommendationsd.svg"
+  },
+  {
+    "file": "20054-data-attribute-recommendationsd.svg",
+    "title": "20054-data-attribute-recommendationsd",
+    "category": "ai",
+    "library": "ai",
+    "size": "M",
+    "path": "ai/20054-data-attribute-recommendationsd.svg"
+  },
+  {
+    "file": "20059-sap-ai-launchpadsd.svg",
+    "title": "20059-sap-ai-launchpadsd",
+    "category": "ai",
+    "library": "ai",
+    "size": "M",
+    "path": "ai/20059-sap-ai-launchpadsd.svg"
+  },
+  {
+    "file": "20095-sap-translation-hubsd.svg",
+    "title": "20095-sap-translation-hubsd",
+    "category": "ai",
+    "library": "ai",
+    "size": "M",
+    "path": "ai/20095-sap-translation-hubsd.svg"
+  },
+  {
+    "file": "20099-service-ticket-intelligencesd.svg",
+    "title": "20099-service-ticket-intelligencesd",
+    "category": "ai",
+    "library": "ai",
+    "size": "M",
+    "path": "ai/20099-service-ticket-intelligencesd.svg"
+  },
+  {
+    "file": "31052-business-entity-recognitionsd.svg",
+    "title": "31052-business-entity-recognitionsd",
+    "category": "ai",
+    "library": "ai",
+    "size": "M",
+    "path": "ai/31052-business-entity-recognitionsd.svg"
+  },
+  {
+    "file": "31103-invoice-object-recommendationsd.svg",
+    "title": "31103-invoice-object-recommendationsd",
+    "category": "ai",
+    "library": "ai",
+    "size": "M",
+    "path": "ai/31103-invoice-object-recommendationsd.svg"
+  },
+  {
+    "file": "31115-sap-digital-assistantsd.svg",
+    "title": "31115-sap-digital-assistantsd",
+    "category": "ai",
+    "library": "ai",
+    "size": "M",
+    "path": "ai/31115-sap-digital-assistantsd.svg"
+  },
+  {
+    "file": "32124-sap-document-grounding.svg",
+    "title": "32124-sap-document-grounding",
+    "category": "ai",
+    "library": "ai",
+    "size": "S",
+    "path": "ai/32124-sap-document-grounding.svg"
+  },
+  {
+    "file": "32132-sap-document-grounding.svg",
+    "title": "32132-sap-document-grounding",
+    "category": "ai",
+    "library": "ai",
+    "size": "M",
+    "path": "ai/32132-sap-document-grounding.svg"
+  },
+  {
+    "file": "48148-sap-document-grounding.svg",
+    "title": "48148-sap-document-grounding",
+    "category": "ai",
+    "library": "ai",
+    "size": "L",
+    "path": "ai/48148-sap-document-grounding.svg"
+  },
+  {
+    "file": "10002-cloud-integration-automationsd.svg",
+    "title": "10002-cloud-integration-automationsd",
+    "category": "all-icons",
+    "library": "all-icons-01",
+    "size": "M",
+    "path": "all-icons-01/10002-cloud-integration-automationsd.svg"
+  },
+  {
+    "file": "10004-document-information-extractionsd.svg",
+    "title": "10004-document-information-extractionsd",
+    "category": "all-icons",
+    "library": "all-icons-01",
+    "size": "L",
+    "path": "all-icons-01/10004-document-information-extractionsd.svg"
+  },
+  {
+    "file": "10007-intelligent-situation-automationsd.svg",
+    "title": "10007-intelligent-situation-automationsd",
+    "category": "all-icons",
+    "library": "all-icons-01",
+    "size": "M",
+    "path": "all-icons-01/10007-intelligent-situation-automationsd.svg"
+  },
+  {
+    "file": "10009-object-store-on-sap-btpsd.svg",
+    "title": "10009-object-store-on-sap-btpsd",
+    "category": "all-icons",
+    "library": "all-icons-01",
+    "size": "M",
+    "path": "all-icons-01/10009-object-store-on-sap-btpsd.svg"
+  },
+  {
+    "file": "10010-personalized-recommendationsd.svg",
+    "title": "10010-personalized-recommendationsd",
+    "category": "all-icons",
+    "library": "all-icons-01",
+    "size": "L",
+    "path": "all-icons-01/10010-personalized-recommendationsd.svg"
+  },
+  {
+    "file": "10013-sap-analytics-cloud-embedded-editionsd.svg",
+    "title": "10013-sap-analytics-cloud-embedded-editionsd",
+    "category": "all-icons",
+    "library": "all-icons-01",
+    "size": "M",
+    "path": "all-icons-01/10013-sap-analytics-cloud-embedded-editionsd.svg"
+  },
+  {
+    "file": "10014-sap-audit-log-servicesd.svg",
+    "title": "10014-sap-audit-log-servicesd",
+    "category": "all-icons",
+    "library": "all-icons-01",
+    "size": "M",
+    "path": "all-icons-01/10014-sap-audit-log-servicesd.svg"
+  },
+  {
+    "file": "10017-sap-btpcloud-foundry-runtimesd.svg",
+    "title": "10017-sap-btpcloud-foundry-runtimesd",
+    "category": "all-icons",
+    "library": "all-icons-01",
+    "size": "M",
+    "path": "all-icons-01/10017-sap-btpcloud-foundry-runtimesd.svg"
+  },
+  {
+    "file": "10022-sap-continuous-integration-and-deliverysd.svg",
+    "title": "10022-sap-continuous-integration-and-deliverysd",
+    "category": "all-icons",
+    "library": "all-icons-01",
+    "size": "M",
+    "path": "all-icons-01/10022-sap-continuous-integration-and-deliverysd.svg"
+  },
+  {
+    "file": "10023-sap-data-privacy-integrationsd.svg",
+    "title": "10023-sap-data-privacy-integrationsd",
+    "category": "all-icons",
+    "library": "all-icons-01",
+    "size": "M",
+    "path": "all-icons-01/10023-sap-data-privacy-integrationsd.svg"
+  },
+  {
+    "file": "10025-sap-dataspheresd.svg",
+    "title": "10025-sap-dataspheresd",
+    "category": "all-icons",
+    "library": "all-icons-01",
+    "size": "M",
+    "path": "all-icons-01/10025-sap-dataspheresd.svg"
+  },
+  {
+    "file": "10030-sap-html5-application-repository-service-for-sap-btp-sd.svg",
+    "title": "10030-sap-html5-application-repository-service-for-sap-btp sd",
+    "category": "all-icons",
+    "library": "all-icons-01",
+    "size": "M",
+    "path": "all-icons-01/10030-sap-html5-application-repository-service-for-sap-btp-sd.svg"
+  },
+  {
+    "file": "10035-sap-cloud-identitysap-keystore-servicesd.svg",
+    "title": "10035-sap-cloud-identitysap-keystore-servicesd",
+    "category": "all-icons",
+    "library": "all-icons-01",
+    "size": "M",
+    "path": "all-icons-01/10035-sap-cloud-identitysap-keystore-servicesd.svg"
+  },
+  {
+    "file": "10037-sap-cloud-identitysap-malware-scanning-servicesd.svg",
+    "title": "10037-sap-cloud-identitysap-malware-scanning-servicesd",
+    "category": "all-icons",
+    "library": "all-icons-01",
+    "size": "M",
+    "path": "all-icons-01/10037-sap-cloud-identitysap-malware-scanning-servicesd.svg"
+  },
+  {
+    "file": "10039-sap-master-data-integrationsd.svg",
+    "title": "10039-sap-master-data-integrationsd",
+    "category": "all-icons",
+    "library": "all-icons-01",
+    "size": "M",
+    "path": "all-icons-01/10039-sap-master-data-integrationsd.svg"
+  },
+  {
+    "file": "10042-sap-private-link-servicesd.svg",
+    "title": "10042-sap-private-link-servicesd",
+    "category": "all-icons",
+    "library": "all-icons-01",
+    "size": "M",
+    "path": "all-icons-01/10042-sap-private-link-servicesd.svg"
+  },
+  {
+    "file": "10044-sap-s4hana-cloud-for-intelligent-intercompany-reconciliationsd.svg",
+    "title": "10044-sap-s4hana-cloud-for-intelligent-intercompany-reconciliationsd",
+    "category": "all-icons",
+    "library": "all-icons-01",
+    "size": "M",
+    "path": "all-icons-01/10044-sap-s4hana-cloud-for-intelligent-intercompany-reconciliationsd.svg"
+  },
+  {
+    "file": "20016-sap-btpabap-environmentsd.svg",
+    "title": "20016-sap-btpabap-environmentsd",
+    "category": "all-icons",
+    "library": "all-icons-01",
+    "size": "M",
+    "path": "all-icons-01/20016-sap-btpabap-environmentsd.svg"
+  },
+  {
+    "file": "20036-sap-landscape-management-cloudsd.svg",
+    "title": "20036-sap-landscape-management-cloudsd",
+    "category": "all-icons",
+    "library": "all-icons-01",
+    "size": "M",
+    "path": "all-icons-01/20036-sap-landscape-management-cloudsd.svg"
+  },
+  {
+    "file": "20049-ui5-flexibility-for-key-userssd.svg",
+    "title": "20049-ui5-flexibility-for-key-userssd",
+    "category": "all-icons",
+    "library": "all-icons-01",
+    "size": "M",
+    "path": "all-icons-01/20049-ui5-flexibility-for-key-userssd.svg"
+  },
+  {
+    "file": "20051-application-autoscalersd.svg",
+    "title": "20051-application-autoscalersd",
+    "category": "all-icons",
+    "library": "all-icons-01",
+    "size": "M",
+    "path": "all-icons-01/20051-application-autoscalersd.svg"
+  },
+  {
+    "file": "20053-sap-cloud-management-service-for-sap-btpsd.svg",
+    "title": "20053-sap-cloud-management-service-for-sap-btpsd",
+    "category": "all-icons",
+    "library": "all-icons-01",
+    "size": "M",
+    "path": "all-icons-01/20053-sap-cloud-management-service-for-sap-btpsd.svg"
+  },
+  {
+    "file": "20054-data-attribute-recommendationsd.svg",
+    "title": "20054-data-attribute-recommendationsd",
+    "category": "all-icons",
+    "library": "all-icons-01",
+    "size": "L",
+    "path": "all-icons-01/20054-data-attribute-recommendationsd.svg"
+  },
+  {
+    "file": "20059-sap-ai-launchpadsd.svg",
+    "title": "20059-sap-ai-launchpadsd",
+    "category": "all-icons",
+    "library": "all-icons-01",
+    "size": "L",
+    "path": "all-icons-01/20059-sap-ai-launchpadsd.svg"
+  },
+  {
+    "file": "20061-sap-analytics-cloudsd.svg",
+    "title": "20061-sap-analytics-cloudsd",
+    "category": "all-icons",
+    "library": "all-icons-01",
+    "size": "M",
+    "path": "all-icons-01/20061-sap-analytics-cloudsd.svg"
+  },
+  {
+    "file": "20062-sap-application-logging-service-for-sap-btpsd.svg",
+    "title": "20062-sap-application-logging-service-for-sap-btpsd",
+    "category": "all-icons",
+    "library": "all-icons-01",
+    "size": "M",
+    "path": "all-icons-01/20062-sap-application-logging-service-for-sap-btpsd.svg"
+  },
+  {
+    "file": "20065-sap-btpkyma-runtimesd.svg",
+    "title": "20065-sap-btpkyma-runtimesd",
+    "category": "all-icons",
+    "library": "all-icons-01",
+    "size": "M",
+    "path": "all-icons-01/20065-sap-btpkyma-runtimesd.svg"
+  },
+  {
+    "file": "20069-sap-business-application-studiosd.svg",
+    "title": "20069-sap-business-application-studiosd",
+    "category": "all-icons",
+    "library": "all-icons-01",
+    "size": "M",
+    "path": "all-icons-01/20069-sap-business-application-studiosd.svg"
+  },
+  {
+    "file": "20070-oauth-20-on-sap-btpsd.svg",
+    "title": "20070-oauth-20-on-sap-btpsd",
+    "category": "all-icons",
+    "library": "all-icons-01",
+    "size": "M",
+    "path": "all-icons-01/20070-oauth-20-on-sap-btpsd.svg"
+  },
+  {
+    "file": "20074-sap-cloud-identitysap-custom-domain-servicesd.svg",
+    "title": "20074-sap-cloud-identitysap-custom-domain-servicesd",
+    "category": "all-icons",
+    "library": "all-icons-01",
+    "size": "M",
+    "path": "all-icons-01/20074-sap-cloud-identitysap-custom-domain-servicesd.svg"
+  },
+  {
+    "file": "20076-sap-cloud-transport-managementsd.svg",
+    "title": "20076-sap-cloud-transport-managementsd",
+    "category": "all-icons",
+    "library": "all-icons-02",
+    "size": "M",
+    "path": "all-icons-02/20076-sap-cloud-transport-managementsd.svg"
+  },
+  {
+    "file": "20080-sap-destination-servicesd.svg",
+    "title": "20080-sap-destination-servicesd",
+    "category": "all-icons",
+    "library": "all-icons-02",
+    "size": "M",
+    "path": "all-icons-02/20080-sap-destination-servicesd.svg"
+  },
+  {
+    "file": "20083-sap-hana-cloudsd.svg",
+    "title": "20083-sap-hana-cloudsd",
+    "category": "all-icons",
+    "library": "all-icons-02",
+    "size": "M",
+    "path": "all-icons-02/20083-sap-hana-cloudsd.svg"
+  },
+  {
+    "file": "20090-sap-job-scheduling-servicesd.svg",
+    "title": "20090-sap-job-scheduling-servicesd",
+    "category": "all-icons",
+    "library": "all-icons-02",
+    "size": "M",
+    "path": "all-icons-02/20090-sap-job-scheduling-servicesd.svg"
+  },
+  {
+    "file": "20091-sap-mobile-servicessdsvg.svg",
+    "title": "20091-sap-mobile-servicessdsvg",
+    "category": "all-icons",
+    "library": "all-icons-02",
+    "size": "M",
+    "path": "all-icons-02/20091-sap-mobile-servicessdsvg.svg"
+  },
+  {
+    "file": "20092-sap-monitoring-service-for-sap-btpsd.svg",
+    "title": "20092-sap-monitoring-service-for-sap-btpsd",
+    "category": "all-icons",
+    "library": "all-icons-02",
+    "size": "M",
+    "path": "all-icons-02/20092-sap-monitoring-service-for-sap-btpsd.svg"
+  },
+  {
+    "file": "20093-sap-omnichannel-promotion-pricingsd.svg",
+    "title": "20093-sap-omnichannel-promotion-pricingsd",
+    "category": "all-icons",
+    "library": "all-icons-02",
+    "size": "M",
+    "path": "all-icons-02/20093-sap-omnichannel-promotion-pricingsd.svg"
+  },
+  {
+    "file": "20094-sap-persistence-service-asesd.svg",
+    "title": "20094-sap-persistence-service-asesd",
+    "category": "all-icons",
+    "library": "all-icons-02",
+    "size": "M",
+    "path": "all-icons-02/20094-sap-persistence-service-asesd.svg"
+  },
+  {
+    "file": "20095-sap-translation-hubsd.svg",
+    "title": "20095-sap-translation-hubsd",
+    "category": "all-icons",
+    "library": "all-icons-02",
+    "size": "L",
+    "path": "all-icons-02/20095-sap-translation-hubsd.svg"
+  },
+  {
+    "file": "20096-sap-variant-configuration-and-pricingsd.svg",
+    "title": "20096-sap-variant-configuration-and-pricingsd",
+    "category": "all-icons",
+    "library": "all-icons-02",
+    "size": "M",
+    "path": "all-icons-02/20096-sap-variant-configuration-and-pricingsd.svg"
+  },
+  {
+    "file": "20098-service-managersd.svg",
+    "title": "20098-service-managersd",
+    "category": "all-icons",
+    "library": "all-icons-02",
+    "size": "M",
+    "path": "all-icons-02/20098-service-managersd.svg"
+  },
+  {
+    "file": "20099-service-ticket-intelligencesd.svg",
+    "title": "20099-service-ticket-intelligencesd",
+    "category": "all-icons",
+    "library": "all-icons-02",
+    "size": "L",
+    "path": "all-icons-02/20099-service-ticket-intelligencesd.svg"
+  },
+  {
+    "file": "31015-sap-cloud-identitysap-authorization-and-trust-management-servicesd.svg",
+    "title": "31015-sap-cloud-identitysap-authorization-and-trust-management-servicesd",
+    "category": "all-icons",
+    "library": "all-icons-02",
+    "size": "M",
+    "path": "all-icons-02/31015-sap-cloud-identitysap-authorization-and-trust-management-servicesd.svg"
+  },
+  {
+    "file": "31018-sap-build-work-zone-advanced-edition-sd.svg",
+    "title": "31018-sap-build-work-zone advanced-edition sd",
+    "category": "all-icons",
+    "library": "all-icons-02",
+    "size": "M",
+    "path": "all-icons-02/31018-sap-build-work-zone-advanced-edition-sd.svg"
+  },
+  {
+    "file": "31021-sap-content-agent-servicesd.svg",
+    "title": "31021-sap-content-agent-servicesd",
+    "category": "all-icons",
+    "library": "all-icons-02",
+    "size": "L",
+    "path": "all-icons-02/31021-sap-content-agent-servicesd.svg"
+  },
+  {
+    "file": "31024-sap-data-retention-managersd.svg",
+    "title": "31024-sap-data-retention-managersd",
+    "category": "all-icons",
+    "library": "all-icons-02",
+    "size": "M",
+    "path": "all-icons-02/31024-sap-data-retention-managersd.svg"
+  },
+  {
+    "file": "31027-sap-document-management-servicesd.svg",
+    "title": "31027-sap-document-management-servicesd",
+    "category": "all-icons",
+    "library": "all-icons-02",
+    "size": "M",
+    "path": "all-icons-02/31027-sap-document-management-servicesd.svg"
+  },
+  {
+    "file": "31037-event-meshsd.svg",
+    "title": "31037-event-meshsd",
+    "category": "all-icons",
+    "library": "all-icons-02",
+    "size": "M",
+    "path": "all-icons-02/31037-event-meshsd.svg"
+  },
+  {
+    "file": "31040-sap-personal-data-managersd.svg",
+    "title": "31040-sap-personal-data-managersd",
+    "category": "all-icons",
+    "library": "all-icons-02",
+    "size": "M",
+    "path": "all-icons-02/31040-sap-personal-data-managersd.svg"
+  },
+  {
+    "file": "31043-sap-responsibility-management-servicesd.svg",
+    "title": "31043-sap-responsibility-management-servicesd",
+    "category": "all-icons",
+    "library": "all-icons-02",
+    "size": "M",
+    "path": "all-icons-02/31043-sap-responsibility-management-servicesd.svg"
+  },
+  {
+    "file": "31045-sap-solution-lifecycle-management-service-for-sap-btpsd.svg",
+    "title": "31045-sap-solution-lifecycle-management-service-for-sap-btpsd",
+    "category": "all-icons",
+    "library": "all-icons-02",
+    "size": "M",
+    "path": "all-icons-02/31045-sap-solution-lifecycle-management-service-for-sap-btpsd.svg"
+  },
+  {
+    "file": "31046-sap-task-center-sd.svg",
+    "title": "31046-sap-task-center sd",
+    "category": "all-icons",
+    "library": "all-icons-02",
+    "size": "M",
+    "path": "all-icons-02/31046-sap-task-center-sd.svg"
+  },
+  {
+    "file": "31052-business-entity-recognitionsd.svg",
+    "title": "31052-business-entity-recognitionsd",
+    "category": "all-icons",
+    "library": "all-icons-02",
+    "size": "L",
+    "path": "all-icons-02/31052-business-entity-recognitionsd.svg"
+  },
+  {
+    "file": "31060-sap-alert-notification-service-for-sap-btpsd.svg",
+    "title": "31060-sap-alert-notification-service-for-sap-btpsd",
+    "category": "all-icons",
+    "library": "all-icons-02",
+    "size": "M",
+    "path": "all-icons-02/31060-sap-alert-notification-service-for-sap-btpsd.svg"
+  },
+  {
+    "file": "31063-sap-automation-pilotsd.svg",
+    "title": "31063-sap-automation-pilotsd",
+    "category": "all-icons",
+    "library": "all-icons-02",
+    "size": "M",
+    "path": "all-icons-02/31063-sap-automation-pilotsd.svg"
+  },
+  {
+    "file": "31066-sap-build-apps-sd.svg",
+    "title": "31066-sap-build-apps sd",
+    "category": "all-icons",
+    "library": "all-icons-02",
+    "size": "M",
+    "path": "all-icons-02/31066-sap-build-apps-sd.svg"
+  },
+  {
+    "file": "31067-sap-build-process-automationsd.svg",
+    "title": "31067-sap-build-process-automationsd",
+    "category": "all-icons",
+    "library": "all-icons-02",
+    "size": "M",
+    "path": "all-icons-02/31067-sap-build-process-automationsd.svg"
+  },
+  {
+    "file": "31068-sap-build-work-zonesd.svg",
+    "title": "31068-sap-build-work-zonesd",
+    "category": "all-icons",
+    "library": "all-icons-02",
+    "size": "M",
+    "path": "all-icons-02/31068-sap-build-work-zonesd.svg"
+  },
+  {
+    "file": "31073-sap-cloud-identitysap-credential-storesd.svg",
+    "title": "31073-sap-cloud-identitysap-credential-storesd",
+    "category": "all-icons",
+    "library": "all-icons-02",
+    "size": "M",
+    "path": "all-icons-02/31073-sap-cloud-identitysap-credential-storesd.svg"
+  },
+  {
+    "file": "31085-sap-hana-spatial-servicessd.svg",
+    "title": "31085-sap-hana-spatial-servicessd",
+    "category": "all-icons",
+    "library": "all-icons-02",
+    "size": "M",
+    "path": "all-icons-02/31085-sap-hana-spatial-servicessd.svg"
+  },
+  {
+    "file": "31103-invoice-object-recommendationsd.svg",
+    "title": "31103-invoice-object-recommendationsd",
+    "category": "all-icons",
+    "library": "all-icons-03",
+    "size": "L",
+    "path": "all-icons-03/31103-invoice-object-recommendationsd.svg"
+  },
+  {
+    "file": "31104-landscape-portal-for-sap-s4hana-cloudabap-environmentsd.svg",
+    "title": "31104-landscape-portal-for-sap-s4hana-cloudabap-environmentsd",
+    "category": "all-icons",
+    "library": "all-icons-03",
+    "size": "M",
+    "path": "all-icons-03/31104-landscape-portal-for-sap-s4hana-cloudabap-environmentsd.svg"
+  },
+  {
+    "file": "31109-sap-build-code-sd.svg",
+    "title": "31109-sap-build-code sd",
+    "category": "all-icons",
+    "library": "all-icons-03",
+    "size": "M",
+    "path": "all-icons-03/31109-sap-build-code-sd.svg"
+  },
+  {
+    "file": "31109-sap-build-codesd.svg",
+    "title": "31109-sap-build-codesd",
+    "category": "all-icons",
+    "library": "all-icons-03",
+    "size": "S",
+    "path": "all-icons-03/31109-sap-build-codesd.svg"
+  },
+  {
+    "file": "31112-cloud-loggingsd.svg",
+    "title": "31112-cloud-loggingsd",
+    "category": "all-icons",
+    "library": "all-icons-03",
+    "size": "M",
+    "path": "all-icons-03/31112-cloud-loggingsd.svg"
+  },
+  {
+    "file": "31112-sap-cloud-loggingsd.svg",
+    "title": "31112-sap-cloud-loggingsd",
+    "category": "all-icons",
+    "library": "all-icons-03",
+    "size": "S",
+    "path": "all-icons-03/31112-sap-cloud-loggingsd.svg"
+  },
+  {
+    "file": "31113-sap-connectivity-servicesd.svg",
+    "title": "31113-sap-connectivity-servicesd",
+    "category": "all-icons",
+    "library": "all-icons-03",
+    "size": "M",
+    "path": "all-icons-03/31113-sap-connectivity-servicesd.svg"
+  },
+  {
+    "file": "31115-sap-digital-assistantsd.svg",
+    "title": "31115-sap-digital-assistantsd",
+    "category": "all-icons",
+    "library": "all-icons-03",
+    "size": "L",
+    "path": "all-icons-03/31115-sap-digital-assistantsd.svg"
+  },
+  {
+    "file": "31117-sap-green-tokensd.svg",
+    "title": "31117-sap-green-tokensd",
+    "category": "all-icons",
+    "library": "all-icons-03",
+    "size": "M",
+    "path": "all-icons-03/31117-sap-green-tokensd.svg"
+  },
+  {
+    "file": "31118-sap-health-data-services-for-fhirsd.svg",
+    "title": "31118-sap-health-data-services-for-fhirsd",
+    "category": "all-icons",
+    "library": "all-icons-03",
+    "size": "M",
+    "path": "all-icons-03/31118-sap-health-data-services-for-fhirsd.svg"
+  },
+  {
+    "file": "31119-sap-master-data-governancesd.svg",
+    "title": "31119-sap-master-data-governancesd",
+    "category": "all-icons",
+    "library": "all-icons-03",
+    "size": "M",
+    "path": "all-icons-03/31119-sap-master-data-governancesd.svg"
+  },
+  {
+    "file": "31120-sap-software-as-a-service-provisioning-servicesd.svg",
+    "title": "31120-sap-software-as-a-service-provisioning-servicesd",
+    "category": "all-icons",
+    "library": "all-icons-03",
+    "size": "M",
+    "path": "all-icons-03/31120-sap-software-as-a-service-provisioning-servicesd.svg"
+  },
+  {
+    "file": "32021-sap-content-agent-servicesd.svg",
+    "title": "32021-sap-content-agent-servicesd",
+    "category": "all-icons",
+    "library": "all-icons-03",
+    "size": "M",
+    "path": "all-icons-03/32021-sap-content-agent-servicesd.svg"
+  },
+  {
+    "file": "32032-advanced-event-meshsd.svg",
+    "title": "32032-advanced-event-meshsd",
+    "category": "all-icons",
+    "library": "all-icons-03",
+    "size": "M",
+    "path": "all-icons-03/32032-advanced-event-meshsd.svg"
+  },
+  {
+    "file": "32071-sap-identity-authentication.svg",
+    "title": "32071-sap-identity-authentication",
+    "category": "all-icons",
+    "library": "all-icons-03",
+    "size": "M",
+    "path": "all-icons-03/32071-sap-identity-authentication.svg"
+  },
+  {
+    "file": "32072-sap-identity-provisoning.svg",
+    "title": "32072-sap-identity-provisoning",
+    "category": "all-icons",
+    "library": "all-icons-03",
+    "size": "M",
+    "path": "all-icons-03/32072-sap-identity-provisoning.svg"
+  },
+  {
+    "file": "32082-sap-event-broker-for-sap-cloud-applicationssd.svg",
+    "title": "32082-sap-event-broker-for-sap-cloud-applicationssd",
+    "category": "all-icons",
+    "library": "all-icons-03",
+    "size": "M",
+    "path": "all-icons-03/32082-sap-event-broker-for-sap-cloud-applicationssd.svg"
+  },
+  {
+    "file": "32086-sap-integration-suitesd.svg",
+    "title": "32086-sap-integration-suitesd",
+    "category": "all-icons",
+    "library": "all-icons-03",
+    "size": "M",
+    "path": "all-icons-03/32086-sap-integration-suitesd.svg"
+  },
+  {
+    "file": "32087-graphsd.svg",
+    "title": "32087-graphsd",
+    "category": "all-icons",
+    "library": "all-icons-03",
+    "size": "M",
+    "path": "all-icons-03/32087-graphsd.svg"
+  },
+  {
+    "file": "32124-sap-document-grounding.svg",
+    "title": "32124-sap-document-grounding",
+    "category": "all-icons",
+    "library": "all-icons-03",
+    "size": "S",
+    "path": "all-icons-03/32124-sap-document-grounding.svg"
+  },
+  {
+    "file": "32127-sap-authorization-managementsd.svg",
+    "title": "32127-sap-authorization-managementsd",
+    "category": "all-icons",
+    "library": "all-icons-03",
+    "size": "M",
+    "path": "all-icons-03/32127-sap-authorization-managementsd.svg"
+  },
+  {
+    "file": "32128-sap-identity-directory.svg",
+    "title": "32128-sap-identity-directory",
+    "category": "all-icons",
+    "library": "all-icons-03",
+    "size": "M",
+    "path": "all-icons-03/32128-sap-identity-directory.svg"
+  },
+  {
+    "file": "32129-sap-cloud-identity-service.svg",
+    "title": "32129-sap-cloud-identity-service",
+    "category": "all-icons",
+    "library": "all-icons-03",
+    "size": "M",
+    "path": "all-icons-03/32129-sap-cloud-identity-service.svg"
+  },
+  {
+    "file": "32130-sap-secure-login-service-for-sap-guisd.svg",
+    "title": "32130-sap-secure-login-service-for-sap-guisd",
+    "category": "all-icons",
+    "library": "all-icons-03",
+    "size": "M",
+    "path": "all-icons-03/32130-sap-secure-login-service-for-sap-guisd.svg"
+  },
+  {
+    "file": "32131-sap-digital-manufacturingsd.svg",
+    "title": "32131-sap-digital-manufacturingsd",
+    "category": "all-icons",
+    "library": "all-icons-03",
+    "size": "M",
+    "path": "all-icons-03/32131-sap-digital-manufacturingsd.svg"
+  },
+  {
+    "file": "32133-api-managementsd.svg",
+    "title": "32133-api-managementsd",
+    "category": "all-icons",
+    "library": "all-icons-03",
+    "size": "M",
+    "path": "all-icons-03/32133-api-managementsd.svg"
+  },
+  {
+    "file": "32134-cloud-integrationsd.svg",
+    "title": "32134-cloud-integrationsd",
+    "category": "all-icons",
+    "library": "all-icons-03",
+    "size": "M",
+    "path": "all-icons-03/32134-cloud-integrationsd.svg"
+  },
+  {
+    "file": "32135-data-space-integrationsd.svg",
+    "title": "32135-data-space-integrationsd",
+    "category": "all-icons",
+    "library": "all-icons-03",
+    "size": "M",
+    "path": "all-icons-03/32135-data-space-integrationsd.svg"
+  },
+  {
+    "file": "32136-edge-integration-cellsd.svg",
+    "title": "32136-edge-integration-cellsd",
+    "category": "all-icons",
+    "library": "all-icons-03",
+    "size": "M",
+    "path": "all-icons-03/32136-edge-integration-cellsd.svg"
+  },
+  {
+    "file": "32138-integration-advisorsd.svg",
+    "title": "32138-integration-advisorsd",
+    "category": "all-icons",
+    "library": "all-icons-03",
+    "size": "M",
+    "path": "all-icons-03/32138-integration-advisorsd.svg"
+  },
+  {
+    "file": "32139-integration-assessmentsd.svg",
+    "title": "32139-integration-assessmentsd",
+    "category": "all-icons",
+    "library": "all-icons-04",
+    "size": "M",
+    "path": "all-icons-04/32139-integration-assessmentsd.svg"
+  },
+  {
+    "file": "32140-migration-assessmentsd.svg",
+    "title": "32140-migration-assessmentsd",
+    "category": "all-icons",
+    "library": "all-icons-04",
+    "size": "M",
+    "path": "all-icons-04/32140-migration-assessmentsd.svg"
+  },
+  {
+    "file": "32141-open-connectorssd.svg",
+    "title": "32141-open-connectorssd",
+    "category": "all-icons",
+    "library": "all-icons-04",
+    "size": "M",
+    "path": "all-icons-04/32141-open-connectorssd.svg"
+  },
+  {
+    "file": "32142-trading-partner-managementsd.svg",
+    "title": "32142-trading-partner-managementsd",
+    "category": "all-icons",
+    "library": "all-icons-04",
+    "size": "M",
+    "path": "all-icons-04/32142-trading-partner-managementsd.svg"
+  },
+  {
+    "file": "32146-sap-sustainability-data-exchangesd.svg",
+    "title": "32146-sap-sustainability-data-exchangesd",
+    "category": "all-icons",
+    "library": "all-icons-04",
+    "size": "M",
+    "path": "all-icons-04/32146-sap-sustainability-data-exchangesd.svg"
+  },
+  {
+    "file": "32147-sap-ui-theme-designer.svg",
+    "title": "32147-sap-ui-theme-designer",
+    "category": "all-icons",
+    "library": "all-icons-04",
+    "size": "M",
+    "path": "all-icons-04/32147-sap-ui-theme-designer.svg"
+  },
+  {
+    "file": "32148-cloud-connector.svg",
+    "title": "32148-cloud-connector",
+    "category": "all-icons",
+    "library": "all-icons-04",
+    "size": "M",
+    "path": "all-icons-04/32148-cloud-connector.svg"
+  },
+  {
+    "file": "32149-sap-collaborative-demand-and-capacity-managementsd.svg",
+    "title": "32149-sap-collaborative-demand-and-capacity-managementsd",
+    "category": "all-icons",
+    "library": "all-icons-04",
+    "size": "M",
+    "path": "all-icons-04/32149-sap-collaborative-demand-and-capacity-managementsd.svg"
+  },
+  {
+    "file": "32152-sap-watch-list-screeningsd.svg",
+    "title": "32152-sap-watch-list-screeningsd",
+    "category": "all-icons",
+    "library": "all-icons-04",
+    "size": "M",
+    "path": "all-icons-04/32152-sap-watch-list-screeningsd.svg"
+  },
+  {
+    "file": "32153-sap-business-accelerator--hubsd.svg",
+    "title": "32153-sap-business-accelerator- hubsd",
+    "category": "all-icons",
+    "library": "all-icons-04",
+    "size": "M",
+    "path": "all-icons-04/32153-sap-business-accelerator--hubsd.svg"
+  },
+  {
+    "file": "32154-sap-api-hub-enterprise.svg",
+    "title": "32154-sap-api-hub-enterprise",
+    "category": "all-icons",
+    "library": "all-icons-04",
+    "size": "M",
+    "path": "all-icons-04/32154-sap-api-hub-enterprise.svg"
+  },
+  {
+    "file": "32156-sap-pki-certificate-servicesd.svg",
+    "title": "32156-sap-pki-certificate-servicesd",
+    "category": "all-icons",
+    "library": "all-icons-04",
+    "size": "M",
+    "path": "all-icons-04/32156-sap-pki-certificate-servicesd.svg"
+  },
+  {
+    "file": "33122-extensibility-service-for-sap-btpsd.svg",
+    "title": "33122-extensibility-service-for-SAP-BTPsd",
+    "category": "all-icons",
+    "library": "all-icons-04",
+    "size": "M",
+    "path": "all-icons-04/33122-extensibility-service-for-sap-btpsd.svg"
+  },
+  {
+    "file": "33123-business-process-model-connector-for-sap-signavio-solutionssd.svg",
+    "title": "33123-business-process-model-connector-for-sap-signavio-solutionssd",
+    "category": "all-icons",
+    "library": "all-icons-04",
+    "size": "M",
+    "path": "all-icons-04/33123-business-process-model-connector-for-sap-signavio-solutionssd.svg"
+  },
+  {
+    "file": "33126-sap-asset-performance-managementsd.svg",
+    "title": "33126-sap-asset-performance-managementsd",
+    "category": "all-icons",
+    "library": "all-icons-04",
+    "size": "M",
+    "path": "all-icons-04/33126-sap-asset-performance-managementsd.svg"
+  },
+  {
+    "file": "33146-sap-cloud-application-programming-modelsd.svg",
+    "title": "33146-sap-cloud-application-programming-modelsd",
+    "category": "all-icons",
+    "library": "all-icons-04",
+    "size": "M",
+    "path": "all-icons-04/33146-sap-cloud-application-programming-modelsd.svg"
+  },
+  {
+    "file": "33147-sap-project-and-resource-managementsd.svg",
+    "title": "33147-sap-project-and-resource-managementsd",
+    "category": "all-icons",
+    "library": "all-icons-04",
+    "size": "M",
+    "path": "all-icons-04/33147-sap-project-and-resource-managementsd.svg"
+  },
+  {
+    "file": "33149-sap-s4hana-for-microsoft-teamssd.svg",
+    "title": "33149-sap-s4hana-for-microsoft-teamssd",
+    "category": "all-icons",
+    "library": "all-icons-04",
+    "size": "M",
+    "path": "all-icons-04/33149-sap-s4hana-for-microsoft-teamssd.svg"
+  },
+  {
+    "file": "34152-sap-business-data-cloudsd.svg",
+    "title": "34152-sap-business-data-cloudsd",
+    "category": "all-icons",
+    "library": "all-icons-04",
+    "size": "M",
+    "path": "all-icons-04/34152-sap-business-data-cloudsd.svg"
+  },
+  {
+    "file": "34156-sap-cloud-almsd.svg",
+    "title": "34156-sap-cloud-almsd",
+    "category": "all-icons",
+    "library": "all-icons-04",
+    "size": "M",
+    "path": "all-icons-04/34156-sap-cloud-almsd.svg"
+  },
+  {
+    "file": "34157-sap-buildsd.svg",
+    "title": "34157-sap-buildsd",
+    "category": "all-icons",
+    "library": "all-icons-04",
+    "size": "M",
+    "path": "all-icons-04/34157-sap-buildsd.svg"
+  },
+  {
+    "file": "34158-application-frontend-servicesd.svg",
+    "title": "34158-application-frontend-servicesd",
+    "category": "all-icons",
+    "library": "all-icons-04",
+    "size": "M",
+    "path": "all-icons-04/34158-application-frontend-servicesd.svg"
+  },
+  {
+    "file": "35158-joule-studiosd.svg",
+    "title": "35158-joule studiosd",
+    "category": "all-icons",
+    "library": "all-icons-04",
+    "size": "M",
+    "path": "all-icons-04/35158-joule-studiosd.svg"
+  },
+  {
+    "file": "48048-advanced-event-meshsd.svg",
+    "title": "48048-advanced-event-meshsd",
+    "category": "all-icons",
+    "library": "all-icons-04",
+    "size": "L",
+    "path": "all-icons-04/48048-advanced-event-meshsd.svg"
+  },
+  {
+    "file": "48071-sap-identity-authentication.svg",
+    "title": "48071-sap-identity-authentication",
+    "category": "all-icons",
+    "library": "all-icons-04",
+    "size": "L",
+    "path": "all-icons-04/48071-sap-identity-authentication.svg"
+  },
+  {
+    "file": "48072-sap-identity-provisoning.svg",
+    "title": "48072-sap-identity-provisoning",
+    "category": "all-icons",
+    "library": "all-icons-04",
+    "size": "L",
+    "path": "all-icons-04/48072-sap-identity-provisoning.svg"
+  },
+  {
+    "file": "48082-sap-event-broker-for-sap-cloud-applicationssd.svg",
+    "title": "48082-sap-event-broker-for-sap-cloud-applicationssd",
+    "category": "all-icons",
+    "library": "all-icons-04",
+    "size": "L",
+    "path": "all-icons-04/48082-sap-event-broker-for-sap-cloud-applicationssd.svg"
+  },
+  {
+    "file": "48086-sap-integration-suitesd.svg",
+    "title": "48086-sap-integration-suitesd",
+    "category": "all-icons",
+    "library": "all-icons-04",
+    "size": "L",
+    "path": "all-icons-04/48086-sap-integration-suitesd.svg"
+  },
+  {
+    "file": "48087-graphsd.svg",
+    "title": "48087-graphsd",
+    "category": "all-icons",
+    "library": "all-icons-04",
+    "size": "L",
+    "path": "all-icons-04/48087-graphsd.svg"
+  },
+  {
+    "file": "48127-sap-authorization-managementsd.svg",
+    "title": "48127-sap-authorization-managementsd",
+    "category": "all-icons",
+    "library": "all-icons-04",
+    "size": "L",
+    "path": "all-icons-04/48127-sap-authorization-managementsd.svg"
+  },
+  {
+    "file": "48128-sap-identity-directory.svg",
+    "title": "48128-sap-identity-directory",
+    "category": "all-icons",
+    "library": "all-icons-05",
+    "size": "L",
+    "path": "all-icons-05/48128-sap-identity-directory.svg"
+  },
+  {
+    "file": "48129-sap-cloud-identity-service.svg",
+    "title": "48129-sap-cloud-identity-service",
+    "category": "all-icons",
+    "library": "all-icons-05",
+    "size": "L",
+    "path": "all-icons-05/48129-sap-cloud-identity-service.svg"
+  },
+  {
+    "file": "48130-sap-secure-login-service-for-sap-guisd.svg",
+    "title": "48130-sap-secure-login-service-for-sap-guisd",
+    "category": "all-icons",
+    "library": "all-icons-05",
+    "size": "L",
+    "path": "all-icons-05/48130-sap-secure-login-service-for-sap-guisd.svg"
+  },
+  {
+    "file": "48133-api-managementsd.svg",
+    "title": "48133-api-managementsd",
+    "category": "all-icons",
+    "library": "all-icons-05",
+    "size": "L",
+    "path": "all-icons-05/48133-api-managementsd.svg"
+  },
+  {
+    "file": "48134-cloud-integrationsd.svg",
+    "title": "48134-cloud-integrationsd",
+    "category": "all-icons",
+    "library": "all-icons-05",
+    "size": "L",
+    "path": "all-icons-05/48134-cloud-integrationsd.svg"
+  },
+  {
+    "file": "48135-data-space-integrationsd.svg",
+    "title": "48135-data-space-integrationsd",
+    "category": "all-icons",
+    "library": "all-icons-05",
+    "size": "L",
+    "path": "all-icons-05/48135-data-space-integrationsd.svg"
+  },
+  {
+    "file": "48136-edge-integration-cellsd.svg",
+    "title": "48136-edge-integration-cellsd",
+    "category": "all-icons",
+    "library": "all-icons-05",
+    "size": "L",
+    "path": "all-icons-05/48136-edge-integration-cellsd.svg"
+  },
+  {
+    "file": "48138-integration-advisorsd.svg",
+    "title": "48138-integration-advisorsd",
+    "category": "all-icons",
+    "library": "all-icons-05",
+    "size": "L",
+    "path": "all-icons-05/48138-integration-advisorsd.svg"
+  },
+  {
+    "file": "48139-integration-assessmentsd.svg",
+    "title": "48139-integration-assessmentsd",
+    "category": "all-icons",
+    "library": "all-icons-05",
+    "size": "L",
+    "path": "all-icons-05/48139-integration-assessmentsd.svg"
+  },
+  {
+    "file": "48140-migration-assessmentsd.svg",
+    "title": "48140-migration-assessmentsd",
+    "category": "all-icons",
+    "library": "all-icons-05",
+    "size": "L",
+    "path": "all-icons-05/48140-migration-assessmentsd.svg"
+  },
+  {
+    "file": "48141-open-connectorssd.svg",
+    "title": "48141-open-connectorssd",
+    "category": "all-icons",
+    "library": "all-icons-05",
+    "size": "L",
+    "path": "all-icons-05/48141-open-connectorssd.svg"
+  },
+  {
+    "file": "48142-trading-partner-managementsd.svg",
+    "title": "48142-trading-partner-managementsd",
+    "category": "all-icons",
+    "library": "all-icons-05",
+    "size": "L",
+    "path": "all-icons-05/48142-trading-partner-managementsd.svg"
+  },
+  {
+    "file": "48147-sap-ui-theme-designer.svg",
+    "title": "48147-sap-ui-theme-designer",
+    "category": "all-icons",
+    "library": "all-icons-05",
+    "size": "L",
+    "path": "all-icons-05/48147-sap-ui-theme-designer.svg"
+  },
+  {
+    "file": "48148-cloud-connector.svg",
+    "title": "48148-cloud-connector",
+    "category": "all-icons",
+    "library": "all-icons-05",
+    "size": "L",
+    "path": "all-icons-05/48148-cloud-connector.svg"
+  },
+  {
+    "file": "48148-sap-document-grounding.svg",
+    "title": "48148-sap-document-grounding",
+    "category": "all-icons",
+    "library": "all-icons-05",
+    "size": "L",
+    "path": "all-icons-05/48148-sap-document-grounding.svg"
+  },
+  {
+    "file": "48153-sap-business-accelerator--hubsd.svg",
+    "title": "48153-sap-business-accelerator- hubsd",
+    "category": "all-icons",
+    "library": "all-icons-05",
+    "size": "L",
+    "path": "all-icons-05/48153-sap-business-accelerator--hubsd.svg"
+  },
+  {
+    "file": "48154-sap-api-hub-enterprise.svg",
+    "title": "48154-sap-api-hub-enterprise",
+    "category": "all-icons",
+    "library": "all-icons-05",
+    "size": "L",
+    "path": "all-icons-05/48154-sap-api-hub-enterprise.svg"
+  },
+  {
+    "file": "10030-sap-html5-application-repository-service-for-sap-btp-sd.svg",
+    "title": "10030-sap-html5-application-repository-service-for-sap-btp sd",
+    "category": "app-dev-automation",
+    "library": "app-dev-automation",
+    "size": "M",
+    "path": "app-dev-automation/10030-sap-html5-application-repository-service-for-sap-btp-sd.svg"
+  },
+  {
+    "file": "20016-sap-btpabap-environmentsd.svg",
+    "title": "20016-sap-btpabap-environmentsd",
+    "category": "app-dev-automation",
+    "library": "app-dev-automation",
+    "size": "M",
+    "path": "app-dev-automation/20016-sap-btpabap-environmentsd.svg"
+  },
+  {
+    "file": "20049-ui5-flexibility-for-key-userssd.svg",
+    "title": "20049-ui5-flexibility-for-key-userssd",
+    "category": "app-dev-automation",
+    "library": "app-dev-automation",
+    "size": "M",
+    "path": "app-dev-automation/20049-ui5-flexibility-for-key-userssd.svg"
+  },
+  {
+    "file": "20069-sap-business-application-studiosd.svg",
+    "title": "20069-sap-business-application-studiosd",
+    "category": "app-dev-automation",
+    "library": "app-dev-automation",
+    "size": "M",
+    "path": "app-dev-automation/20069-sap-business-application-studiosd.svg"
+  },
+  {
+    "file": "20091-sap-mobile-servicessdsvg.svg",
+    "title": "20091-sap-mobile-servicessdsvg",
+    "category": "app-dev-automation",
+    "library": "app-dev-automation",
+    "size": "M",
+    "path": "app-dev-automation/20091-sap-mobile-servicessdsvg.svg"
+  },
+  {
+    "file": "31018-sap-build-work-zone-advanced-edition-sd.svg",
+    "title": "31018-sap-build-work-zone advanced-edition sd",
+    "category": "app-dev-automation",
+    "library": "app-dev-automation",
+    "size": "M",
+    "path": "app-dev-automation/31018-sap-build-work-zone-advanced-edition-sd.svg"
+  },
+  {
+    "file": "31046-sap-task-center-sd.svg",
+    "title": "31046-sap-task-center sd",
+    "category": "app-dev-automation",
+    "library": "app-dev-automation",
+    "size": "M",
+    "path": "app-dev-automation/31046-sap-task-center-sd.svg"
+  },
+  {
+    "file": "31066-sap-build-apps-sd.svg",
+    "title": "31066-sap-build-apps sd",
+    "category": "app-dev-automation",
+    "library": "app-dev-automation",
+    "size": "M",
+    "path": "app-dev-automation/31066-sap-build-apps-sd.svg"
+  },
+  {
+    "file": "31067-sap-build-process-automationsd.svg",
+    "title": "31067-sap-build-process-automationsd",
+    "category": "app-dev-automation",
+    "library": "app-dev-automation",
+    "size": "M",
+    "path": "app-dev-automation/31067-sap-build-process-automationsd.svg"
+  },
+  {
+    "file": "31068-sap-build-work-zonesd.svg",
+    "title": "31068-sap-build-work-zonesd",
+    "category": "app-dev-automation",
+    "library": "app-dev-automation",
+    "size": "M",
+    "path": "app-dev-automation/31068-sap-build-work-zonesd.svg"
+  },
+  {
+    "file": "31109-sap-build-code-sd.svg",
+    "title": "31109-sap-build-code sd",
+    "category": "app-dev-automation",
+    "library": "app-dev-automation",
+    "size": "M",
+    "path": "app-dev-automation/31109-sap-build-code-sd.svg"
+  },
+  {
+    "file": "31109-sap-build-codesd.svg",
+    "title": "31109-sap-build-codesd",
+    "category": "app-dev-automation",
+    "library": "app-dev-automation",
+    "size": "S",
+    "path": "app-dev-automation/31109-sap-build-codesd.svg"
+  },
+  {
+    "file": "32147-sap-ui-theme-designer.svg",
+    "title": "32147-sap-ui-theme-designer",
+    "category": "app-dev-automation",
+    "library": "app-dev-automation",
+    "size": "M",
+    "path": "app-dev-automation/32147-sap-ui-theme-designer.svg"
+  },
+  {
+    "file": "33122-extensibility-service-for-sap-btpsd.svg",
+    "title": "33122-extensibility-service-for-SAP-BTPsd",
+    "category": "app-dev-automation",
+    "library": "app-dev-automation",
+    "size": "M",
+    "path": "app-dev-automation/33122-extensibility-service-for-sap-btpsd.svg"
+  },
+  {
+    "file": "33146-sap-cloud-application-programming-modelsd.svg",
+    "title": "33146-sap-cloud-application-programming-modelsd",
+    "category": "app-dev-automation",
+    "library": "app-dev-automation",
+    "size": "M",
+    "path": "app-dev-automation/33146-sap-cloud-application-programming-modelsd.svg"
+  },
+  {
+    "file": "34157-sap-buildsd.svg",
+    "title": "34157-sap-buildsd",
+    "category": "app-dev-automation",
+    "library": "app-dev-automation",
+    "size": "M",
+    "path": "app-dev-automation/34157-sap-buildsd.svg"
+  },
+  {
+    "file": "34158-application-frontend-servicesd.svg",
+    "title": "34158-application-frontend-servicesd",
+    "category": "app-dev-automation",
+    "library": "app-dev-automation",
+    "size": "M",
+    "path": "app-dev-automation/34158-application-frontend-servicesd.svg"
+  },
+  {
+    "file": "35158-joule-studiosd.svg",
+    "title": "35158-joule studiosd",
+    "category": "app-dev-automation",
+    "library": "app-dev-automation",
+    "size": "M",
+    "path": "app-dev-automation/35158-joule-studiosd.svg"
+  },
+  {
+    "file": "48147-sap-ui-theme-designer.svg",
+    "title": "48147-sap-ui-theme-designer",
+    "category": "app-dev-automation",
+    "library": "app-dev-automation",
+    "size": "L",
+    "path": "app-dev-automation/48147-sap-ui-theme-designer.svg"
+  },
+  {
+    "file": "10007-intelligent-situation-automationsd.svg",
+    "title": "10007-intelligent-situation-automationsd",
+    "category": "btp-saas",
+    "library": "btp-saas",
+    "size": "M",
+    "path": "btp-saas/10007-intelligent-situation-automationsd.svg"
+  },
+  {
+    "file": "10044-sap-s4hana-cloud-for-intelligent-intercompany-reconciliationsd.svg",
+    "title": "10044-sap-s4hana-cloud-for-intelligent-intercompany-reconciliationsd",
+    "category": "btp-saas",
+    "library": "btp-saas",
+    "size": "M",
+    "path": "btp-saas/10044-sap-s4hana-cloud-for-intelligent-intercompany-reconciliationsd.svg"
+  },
+  {
+    "file": "20036-sap-landscape-management-cloudsd.svg",
+    "title": "20036-sap-landscape-management-cloudsd",
+    "category": "btp-saas",
+    "library": "btp-saas",
+    "size": "M",
+    "path": "btp-saas/20036-sap-landscape-management-cloudsd.svg"
+  },
+  {
+    "file": "20093-sap-omnichannel-promotion-pricingsd.svg",
+    "title": "20093-sap-omnichannel-promotion-pricingsd",
+    "category": "btp-saas",
+    "library": "btp-saas",
+    "size": "M",
+    "path": "btp-saas/20093-sap-omnichannel-promotion-pricingsd.svg"
+  },
+  {
+    "file": "20096-sap-variant-configuration-and-pricingsd.svg",
+    "title": "20096-sap-variant-configuration-and-pricingsd",
+    "category": "btp-saas",
+    "library": "btp-saas",
+    "size": "M",
+    "path": "btp-saas/20096-sap-variant-configuration-and-pricingsd.svg"
+  },
+  {
+    "file": "31043-sap-responsibility-management-servicesd.svg",
+    "title": "31043-sap-responsibility-management-servicesd",
+    "category": "btp-saas",
+    "library": "btp-saas",
+    "size": "M",
+    "path": "btp-saas/31043-sap-responsibility-management-servicesd.svg"
+  },
+  {
+    "file": "31117-sap-green-tokensd.svg",
+    "title": "31117-sap-green-tokensd",
+    "category": "btp-saas",
+    "library": "btp-saas",
+    "size": "M",
+    "path": "btp-saas/31117-sap-green-tokensd.svg"
+  },
+  {
+    "file": "31118-sap-health-data-services-for-fhirsd.svg",
+    "title": "31118-sap-health-data-services-for-fhirsd",
+    "category": "btp-saas",
+    "library": "btp-saas",
+    "size": "M",
+    "path": "btp-saas/31118-sap-health-data-services-for-fhirsd.svg"
+  },
+  {
+    "file": "32131-sap-digital-manufacturingsd.svg",
+    "title": "32131-sap-digital-manufacturingsd",
+    "category": "btp-saas",
+    "library": "btp-saas",
+    "size": "M",
+    "path": "btp-saas/32131-sap-digital-manufacturingsd.svg"
+  },
+  {
+    "file": "32146-sap-sustainability-data-exchangesd.svg",
+    "title": "32146-sap-sustainability-data-exchangesd",
+    "category": "btp-saas",
+    "library": "btp-saas",
+    "size": "M",
+    "path": "btp-saas/32146-sap-sustainability-data-exchangesd.svg"
+  },
+  {
+    "file": "32149-sap-collaborative-demand-and-capacity-managementsd.svg",
+    "title": "32149-sap-collaborative-demand-and-capacity-managementsd",
+    "category": "btp-saas",
+    "library": "btp-saas",
+    "size": "M",
+    "path": "btp-saas/32149-sap-collaborative-demand-and-capacity-managementsd.svg"
+  },
+  {
+    "file": "32152-sap-watch-list-screeningsd.svg",
+    "title": "32152-sap-watch-list-screeningsd",
+    "category": "btp-saas",
+    "library": "btp-saas",
+    "size": "M",
+    "path": "btp-saas/32152-sap-watch-list-screeningsd.svg"
+  },
+  {
+    "file": "33123-business-process-model-connector-for-sap-signavio-solutionssd.svg",
+    "title": "33123-business-process-model-connector-for-sap-signavio-solutionssd",
+    "category": "btp-saas",
+    "library": "btp-saas",
+    "size": "M",
+    "path": "btp-saas/33123-business-process-model-connector-for-sap-signavio-solutionssd.svg"
+  },
+  {
+    "file": "33126-sap-asset-performance-managementsd.svg",
+    "title": "33126-sap-asset-performance-managementsd",
+    "category": "btp-saas",
+    "library": "btp-saas",
+    "size": "M",
+    "path": "btp-saas/33126-sap-asset-performance-managementsd.svg"
+  },
+  {
+    "file": "33147-sap-project-and-resource-managementsd.svg",
+    "title": "33147-sap-project-and-resource-managementsd",
+    "category": "btp-saas",
+    "library": "btp-saas",
+    "size": "M",
+    "path": "btp-saas/33147-sap-project-and-resource-managementsd.svg"
+  },
+  {
+    "file": "33149-sap-s4hana-for-microsoft-teamssd.svg",
+    "title": "33149-sap-s4hana-for-microsoft-teamssd",
+    "category": "btp-saas",
+    "library": "btp-saas",
+    "size": "M",
+    "path": "btp-saas/33149-sap-s4hana-for-microsoft-teamssd.svg"
+  },
+  {
+    "file": "34155-sap-logistics-managementsd.svg",
+    "title": "34155-sap-logistics-managementsd",
+    "category": "btp-saas",
+    "library": "btp-saas",
+    "size": "M",
+    "path": "btp-saas/34155-sap-logistics-managementsd.svg"
+  },
+  {
+    "file": "34156-sap-cloud-almsd.svg",
+    "title": "34156-sap-cloud-almsd",
+    "category": "btp-saas",
+    "library": "btp-saas",
+    "size": "M",
+    "path": "btp-saas/34156-sap-cloud-almsd.svg"
+  },
+  {
+    "file": "34159-customer-data-cloudsd.svg",
+    "title": "34159-customer-data-cloudsd",
+    "category": "btp-saas",
+    "library": "btp-saas",
+    "size": "M",
+    "path": "btp-saas/34159-customer-data-cloudsd.svg"
+  },
+  {
+    "file": "10013-sap-analytics-cloud-embedded-editionsd.svg",
+    "title": "10013-sap-analytics-cloud-embedded-editionsd",
+    "category": "data-analytics",
+    "library": "data-analytics",
+    "size": "M",
+    "path": "data-analytics/10013-sap-analytics-cloud-embedded-editionsd.svg"
+  },
+  {
+    "file": "10025-sap-dataspheresd.svg",
+    "title": "10025-sap-dataspheresd",
+    "category": "data-analytics",
+    "library": "data-analytics",
+    "size": "M",
+    "path": "data-analytics/10025-sap-dataspheresd.svg"
+  },
+  {
+    "file": "20061-sap-analytics-cloudsd.svg",
+    "title": "20061-sap-analytics-cloudsd",
+    "category": "data-analytics",
+    "library": "data-analytics",
+    "size": "M",
+    "path": "data-analytics/20061-sap-analytics-cloudsd.svg"
+  },
+  {
+    "file": "20083-sap-hana-cloudsd.svg",
+    "title": "20083-sap-hana-cloudsd",
+    "category": "data-analytics",
+    "library": "data-analytics",
+    "size": "M",
+    "path": "data-analytics/20083-sap-hana-cloudsd.svg"
+  },
+  {
+    "file": "20094-sap-persistence-service-asesd.svg",
+    "title": "20094-sap-persistence-service-asesd",
+    "category": "data-analytics",
+    "library": "data-analytics",
+    "size": "M",
+    "path": "data-analytics/20094-sap-persistence-service-asesd.svg"
+  },
+  {
+    "file": "31085-sap-hana-spatial-servicessd.svg",
+    "title": "31085-sap-hana-spatial-servicessd",
+    "category": "data-analytics",
+    "library": "data-analytics",
+    "size": "M",
+    "path": "data-analytics/31085-sap-hana-spatial-servicessd.svg"
+  },
+  {
+    "file": "31119-sap-master-data-governancesd.svg",
+    "title": "31119-sap-master-data-governancesd",
+    "category": "data-analytics",
+    "library": "data-analytics",
+    "size": "M",
+    "path": "data-analytics/31119-sap-master-data-governancesd.svg"
+  },
+  {
+    "file": "34152-sap-business-data-cloudsd.svg",
+    "title": "34152-sap-business-data-cloudsd",
+    "category": "data-analytics",
+    "library": "data-analytics",
+    "size": "M",
+    "path": "data-analytics/34152-sap-business-data-cloudsd.svg"
+  },
+  {
+    "file": "step-2-end-user.svg",
+    "title": "Step 2 End User",
+    "category": "demo",
+    "library": "demo",
+    "size": "default",
+    "path": "demo/step-2-end-user.svg"
+  },
+  {
+    "file": "step-3-sap-build-work-zone.svg",
+    "title": "Step 3 SAP Build Work Zone",
+    "category": "demo",
+    "library": "demo",
+    "size": "default",
+    "path": "demo/step-3-sap-build-work-zone.svg"
+  },
+  {
+    "file": "step-4-cis.svg",
+    "title": "Step 4 CIS",
+    "category": "demo",
+    "library": "demo",
+    "size": "default",
+    "path": "demo/step-4-cis.svg"
+  },
+  {
+    "file": "step-5-connections.svg",
+    "title": "Step 5 Connections",
+    "category": "demo",
+    "library": "demo",
+    "size": "default",
+    "path": "demo/step-5-connections.svg"
+  },
+  {
+    "file": "step-7-be.svg",
+    "title": "Step 7 BE",
+    "category": "demo",
+    "library": "demo",
+    "size": "default",
+    "path": "demo/step-7-be.svg"
+  },
+  {
+    "file": "step-8-legend.svg",
+    "title": "Step 8 Legend",
+    "category": "demo",
+    "library": "demo",
+    "size": "default",
+    "path": "demo/step-8-legend.svg"
+  },
+  {
+    "file": "3rd-party.svg",
+    "title": "3rd party",
+    "category": "essentials",
+    "library": "essentials",
+    "size": "default",
+    "path": "essentials/3rd-party.svg"
+  },
+  {
+    "file": "3rd-party-apis.svg",
+    "title": "3rd party APIs",
+    "category": "essentials",
+    "library": "essentials",
+    "size": "default",
+    "path": "essentials/3rd-party-apis.svg"
+  },
+  {
+    "file": "3rd-party-idp-and-protocols.svg",
+    "title": "3rd party IdP and protocols",
+    "category": "essentials",
+    "library": "essentials",
+    "size": "default",
+    "path": "essentials/3rd-party-idp-and-protocols.svg"
+  },
+  {
+    "file": "btp-base-layer.svg",
+    "title": "BTP base layer",
+    "category": "essentials",
+    "library": "essentials",
+    "size": "default",
+    "path": "essentials/btp-base-layer.svg"
+  },
+  {
+    "file": "cloud-connector.svg",
+    "title": "Cloud Connector",
+    "category": "essentials",
+    "library": "essentials",
+    "size": "default",
+    "path": "essentials/cloud-connector.svg"
+  },
+  {
+    "file": "cloud-solutions.svg",
+    "title": "Cloud solutions",
+    "category": "essentials",
+    "library": "essentials",
+    "size": "default",
+    "path": "essentials/cloud-solutions.svg"
+  },
+  {
+    "file": "on-premise.svg",
+    "title": "On-Premise",
+    "category": "essentials",
+    "library": "essentials",
+    "size": "default",
+    "path": "essentials/on-premise.svg"
+  },
+  {
+    "file": "user-and-client.svg",
+    "title": "User and client",
+    "category": "essentials",
+    "library": "essentials",
+    "size": "default",
+    "path": "essentials/user-and-client.svg"
+  },
+  {
+    "file": "10002-cloud-integration-automationsd.svg",
+    "title": "10002-cloud-integration-automationsd",
+    "category": "foundational",
+    "library": "foundational-01",
+    "size": "M",
+    "path": "foundational-01/10002-cloud-integration-automationsd.svg"
+  },
+  {
+    "file": "10009-object-store-on-sap-btpsd.svg",
+    "title": "10009-object-store-on-sap-btpsd",
+    "category": "foundational",
+    "library": "foundational-01",
+    "size": "M",
+    "path": "foundational-01/10009-object-store-on-sap-btpsd.svg"
+  },
+  {
+    "file": "10014-sap-audit-log-servicesd.svg",
+    "title": "10014-sap-audit-log-servicesd",
+    "category": "foundational",
+    "library": "foundational-01",
+    "size": "M",
+    "path": "foundational-01/10014-sap-audit-log-servicesd.svg"
+  },
+  {
+    "file": "10017-sap-btpcloud-foundry-runtimesd.svg",
+    "title": "10017-sap-btpcloud-foundry-runtimesd",
+    "category": "foundational",
+    "library": "foundational-01",
+    "size": "M",
+    "path": "foundational-01/10017-sap-btpcloud-foundry-runtimesd.svg"
+  },
+  {
+    "file": "10022-sap-continuous-integration-and-deliverysd.svg",
+    "title": "10022-sap-continuous-integration-and-deliverysd",
+    "category": "foundational",
+    "library": "foundational-01",
+    "size": "M",
+    "path": "foundational-01/10022-sap-continuous-integration-and-deliverysd.svg"
+  },
+  {
+    "file": "10023-sap-data-privacy-integrationsd.svg",
+    "title": "10023-sap-data-privacy-integrationsd",
+    "category": "foundational",
+    "library": "foundational-01",
+    "size": "M",
+    "path": "foundational-01/10023-sap-data-privacy-integrationsd.svg"
+  },
+  {
+    "file": "10035-sap-cloud-identitysap-keystore-servicesd.svg",
+    "title": "10035-sap-cloud-identitysap-keystore-servicesd",
+    "category": "foundational",
+    "library": "foundational-01",
+    "size": "M",
+    "path": "foundational-01/10035-sap-cloud-identitysap-keystore-servicesd.svg"
+  },
+  {
+    "file": "10037-sap-cloud-identitysap-malware-scanning-servicesd.svg",
+    "title": "10037-sap-cloud-identitysap-malware-scanning-servicesd",
+    "category": "foundational",
+    "library": "foundational-01",
+    "size": "M",
+    "path": "foundational-01/10037-sap-cloud-identitysap-malware-scanning-servicesd.svg"
+  },
+  {
+    "file": "10039-sap-master-data-integrationsd.svg",
+    "title": "10039-sap-master-data-integrationsd",
+    "category": "foundational",
+    "library": "foundational-01",
+    "size": "M",
+    "path": "foundational-01/10039-sap-master-data-integrationsd.svg"
+  },
+  {
+    "file": "10042-sap-private-link-servicesd.svg",
+    "title": "10042-sap-private-link-servicesd",
+    "category": "foundational",
+    "library": "foundational-01",
+    "size": "M",
+    "path": "foundational-01/10042-sap-private-link-servicesd.svg"
+  },
+  {
+    "file": "20051-application-autoscalersd.svg",
+    "title": "20051-application-autoscalersd",
+    "category": "foundational",
+    "library": "foundational-01",
+    "size": "M",
+    "path": "foundational-01/20051-application-autoscalersd.svg"
+  },
+  {
+    "file": "20053-sap-cloud-management-service-for-sap-btpsd.svg",
+    "title": "20053-sap-cloud-management-service-for-sap-btpsd",
+    "category": "foundational",
+    "library": "foundational-01",
+    "size": "M",
+    "path": "foundational-01/20053-sap-cloud-management-service-for-sap-btpsd.svg"
+  },
+  {
+    "file": "20062-sap-application-logging-service-for-sap-btpsd.svg",
+    "title": "20062-sap-application-logging-service-for-sap-btpsd",
+    "category": "foundational",
+    "library": "foundational-01",
+    "size": "M",
+    "path": "foundational-01/20062-sap-application-logging-service-for-sap-btpsd.svg"
+  },
+  {
+    "file": "20065-sap-btpkyma-runtimesd.svg",
+    "title": "20065-sap-btpkyma-runtimesd",
+    "category": "foundational",
+    "library": "foundational-01",
+    "size": "M",
+    "path": "foundational-01/20065-sap-btpkyma-runtimesd.svg"
+  },
+  {
+    "file": "20070-oauth-20-on-sap-btpsd.svg",
+    "title": "20070-oauth-20-on-sap-btpsd",
+    "category": "foundational",
+    "library": "foundational-01",
+    "size": "M",
+    "path": "foundational-01/20070-oauth-20-on-sap-btpsd.svg"
+  },
+  {
+    "file": "20074-sap-cloud-identitysap-custom-domain-servicesd.svg",
+    "title": "20074-sap-cloud-identitysap-custom-domain-servicesd",
+    "category": "foundational",
+    "library": "foundational-01",
+    "size": "M",
+    "path": "foundational-01/20074-sap-cloud-identitysap-custom-domain-servicesd.svg"
+  },
+  {
+    "file": "20076-sap-cloud-transport-managementsd.svg",
+    "title": "20076-sap-cloud-transport-managementsd",
+    "category": "foundational",
+    "library": "foundational-01",
+    "size": "M",
+    "path": "foundational-01/20076-sap-cloud-transport-managementsd.svg"
+  },
+  {
+    "file": "20080-sap-destination-servicesd.svg",
+    "title": "20080-sap-destination-servicesd",
+    "category": "foundational",
+    "library": "foundational-01",
+    "size": "M",
+    "path": "foundational-01/20080-sap-destination-servicesd.svg"
+  },
+  {
+    "file": "20090-sap-job-scheduling-servicesd.svg",
+    "title": "20090-sap-job-scheduling-servicesd",
+    "category": "foundational",
+    "library": "foundational-01",
+    "size": "M",
+    "path": "foundational-01/20090-sap-job-scheduling-servicesd.svg"
+  },
+  {
+    "file": "20092-sap-monitoring-service-for-sap-btpsd.svg",
+    "title": "20092-sap-monitoring-service-for-sap-btpsd",
+    "category": "foundational",
+    "library": "foundational-01",
+    "size": "M",
+    "path": "foundational-01/20092-sap-monitoring-service-for-sap-btpsd.svg"
+  },
+  {
+    "file": "20098-service-managersd.svg",
+    "title": "20098-service-managersd",
+    "category": "foundational",
+    "library": "foundational-01",
+    "size": "M",
+    "path": "foundational-01/20098-service-managersd.svg"
+  },
+  {
+    "file": "31015-sap-cloud-identitysap-authorization-and-trust-management-servicesd.svg",
+    "title": "31015-sap-cloud-identitysap-authorization-and-trust-management-servicesd",
+    "category": "foundational",
+    "library": "foundational-01",
+    "size": "M",
+    "path": "foundational-01/31015-sap-cloud-identitysap-authorization-and-trust-management-servicesd.svg"
+  },
+  {
+    "file": "31021-sap-content-agent-servicesd.svg",
+    "title": "31021-sap-content-agent-servicesd",
+    "category": "foundational",
+    "library": "foundational-01",
+    "size": "L",
+    "path": "foundational-01/31021-sap-content-agent-servicesd.svg"
+  },
+  {
+    "file": "31024-sap-data-retention-managersd.svg",
+    "title": "31024-sap-data-retention-managersd",
+    "category": "foundational",
+    "library": "foundational-01",
+    "size": "M",
+    "path": "foundational-01/31024-sap-data-retention-managersd.svg"
+  },
+  {
+    "file": "31027-sap-document-management-servicesd.svg",
+    "title": "31027-sap-document-management-servicesd",
+    "category": "foundational",
+    "library": "foundational-01",
+    "size": "M",
+    "path": "foundational-01/31027-sap-document-management-servicesd.svg"
+  },
+  {
+    "file": "31040-sap-personal-data-managersd.svg",
+    "title": "31040-sap-personal-data-managersd",
+    "category": "foundational",
+    "library": "foundational-01",
+    "size": "M",
+    "path": "foundational-01/31040-sap-personal-data-managersd.svg"
+  },
+  {
+    "file": "31045-sap-solution-lifecycle-management-service-for-sap-btpsd.svg",
+    "title": "31045-sap-solution-lifecycle-management-service-for-sap-btpsd",
+    "category": "foundational",
+    "library": "foundational-01",
+    "size": "M",
+    "path": "foundational-01/31045-sap-solution-lifecycle-management-service-for-sap-btpsd.svg"
+  },
+  {
+    "file": "31060-sap-alert-notification-service-for-sap-btpsd.svg",
+    "title": "31060-sap-alert-notification-service-for-sap-btpsd",
+    "category": "foundational",
+    "library": "foundational-01",
+    "size": "M",
+    "path": "foundational-01/31060-sap-alert-notification-service-for-sap-btpsd.svg"
+  },
+  {
+    "file": "31063-sap-automation-pilotsd.svg",
+    "title": "31063-sap-automation-pilotsd",
+    "category": "foundational",
+    "library": "foundational-01",
+    "size": "M",
+    "path": "foundational-01/31063-sap-automation-pilotsd.svg"
+  },
+  {
+    "file": "31073-sap-cloud-identitysap-credential-storesd.svg",
+    "title": "31073-sap-cloud-identitysap-credential-storesd",
+    "category": "foundational",
+    "library": "foundational-01",
+    "size": "M",
+    "path": "foundational-01/31073-sap-cloud-identitysap-credential-storesd.svg"
+  },
+  {
+    "file": "31104-landscape-portal-for-sap-s4hana-cloudabap-environmentsd.svg",
+    "title": "31104-landscape-portal-for-sap-s4hana-cloudabap-environmentsd",
+    "category": "foundational",
+    "library": "foundational-02",
+    "size": "M",
+    "path": "foundational-02/31104-landscape-portal-for-sap-s4hana-cloudabap-environmentsd.svg"
+  },
+  {
+    "file": "31112-cloud-loggingsd.svg",
+    "title": "31112-cloud-loggingsd",
+    "category": "foundational",
+    "library": "foundational-02",
+    "size": "M",
+    "path": "foundational-02/31112-cloud-loggingsd.svg"
+  },
+  {
+    "file": "31112-sap-cloud-loggingsd.svg",
+    "title": "31112-sap-cloud-loggingsd",
+    "category": "foundational",
+    "library": "foundational-02",
+    "size": "S",
+    "path": "foundational-02/31112-sap-cloud-loggingsd.svg"
+  },
+  {
+    "file": "31113-sap-connectivity-servicesd.svg",
+    "title": "31113-sap-connectivity-servicesd",
+    "category": "foundational",
+    "library": "foundational-02",
+    "size": "M",
+    "path": "foundational-02/31113-sap-connectivity-servicesd.svg"
+  },
+  {
+    "file": "31120-sap-software-as-a-service-provisioning-servicesd.svg",
+    "title": "31120-sap-software-as-a-service-provisioning-servicesd",
+    "category": "foundational",
+    "library": "foundational-02",
+    "size": "M",
+    "path": "foundational-02/31120-sap-software-as-a-service-provisioning-servicesd.svg"
+  },
+  {
+    "file": "32021-sap-content-agent-servicesd.svg",
+    "title": "32021-sap-content-agent-servicesd",
+    "category": "foundational",
+    "library": "foundational-02",
+    "size": "M",
+    "path": "foundational-02/32021-sap-content-agent-servicesd.svg"
+  },
+  {
+    "file": "32071-sap-identity-authentication.svg",
+    "title": "32071-sap-identity-authentication",
+    "category": "foundational",
+    "library": "foundational-02",
+    "size": "M",
+    "path": "foundational-02/32071-sap-identity-authentication.svg"
+  },
+  {
+    "file": "32072-sap-identity-provisoning.svg",
+    "title": "32072-sap-identity-provisoning",
+    "category": "foundational",
+    "library": "foundational-02",
+    "size": "M",
+    "path": "foundational-02/32072-sap-identity-provisoning.svg"
+  },
+  {
+    "file": "32082-sap-event-broker-for-sap-cloud-applicationssd.svg",
+    "title": "32082-sap-event-broker-for-sap-cloud-applicationssd",
+    "category": "foundational",
+    "library": "foundational-02",
+    "size": "M",
+    "path": "foundational-02/32082-sap-event-broker-for-sap-cloud-applicationssd.svg"
+  },
+  {
+    "file": "32127-sap-authorization-managementsd.svg",
+    "title": "32127-sap-authorization-managementsd",
+    "category": "foundational",
+    "library": "foundational-02",
+    "size": "M",
+    "path": "foundational-02/32127-sap-authorization-managementsd.svg"
+  },
+  {
+    "file": "32128-sap-identity-directory.svg",
+    "title": "32128-sap-identity-directory",
+    "category": "foundational",
+    "library": "foundational-02",
+    "size": "M",
+    "path": "foundational-02/32128-sap-identity-directory.svg"
+  },
+  {
+    "file": "32129-sap-cloud-identity-service.svg",
+    "title": "32129-sap-cloud-identity-service",
+    "category": "foundational",
+    "library": "foundational-02",
+    "size": "M",
+    "path": "foundational-02/32129-sap-cloud-identity-service.svg"
+  },
+  {
+    "file": "32130-sap-secure-login-service-for-sap-guisd.svg",
+    "title": "32130-sap-secure-login-service-for-sap-guisd",
+    "category": "foundational",
+    "library": "foundational-02",
+    "size": "M",
+    "path": "foundational-02/32130-sap-secure-login-service-for-sap-guisd.svg"
+  },
+  {
+    "file": "32148-cloud-connector.svg",
+    "title": "32148-cloud-connector",
+    "category": "foundational",
+    "library": "foundational-02",
+    "size": "M",
+    "path": "foundational-02/32148-cloud-connector.svg"
+  },
+  {
+    "file": "32156-sap-pki-certificate-servicesd.svg",
+    "title": "32156-sap-pki-certificate-servicesd",
+    "category": "foundational",
+    "library": "foundational-02",
+    "size": "M",
+    "path": "foundational-02/32156-sap-pki-certificate-servicesd.svg"
+  },
+  {
+    "file": "34158-application-frontend-servicesd.svg",
+    "title": "34158-application-frontend-servicesd",
+    "category": "foundational",
+    "library": "foundational-02",
+    "size": "M",
+    "path": "foundational-02/34158-application-frontend-servicesd.svg"
+  },
+  {
+    "file": "48071-sap-identity-authentication.svg",
+    "title": "48071-sap-identity-authentication",
+    "category": "foundational",
+    "library": "foundational-02",
+    "size": "L",
+    "path": "foundational-02/48071-sap-identity-authentication.svg"
+  },
+  {
+    "file": "48072-sap-identity-provisoning.svg",
+    "title": "48072-sap-identity-provisoning",
+    "category": "foundational",
+    "library": "foundational-02",
+    "size": "L",
+    "path": "foundational-02/48072-sap-identity-provisoning.svg"
+  },
+  {
+    "file": "48082-sap-event-broker-for-sap-cloud-applicationssd.svg",
+    "title": "48082-sap-event-broker-for-sap-cloud-applicationssd",
+    "category": "foundational",
+    "library": "foundational-02",
+    "size": "L",
+    "path": "foundational-02/48082-sap-event-broker-for-sap-cloud-applicationssd.svg"
+  },
+  {
+    "file": "48127-sap-authorization-managementsd.svg",
+    "title": "48127-sap-authorization-managementsd",
+    "category": "foundational",
+    "library": "foundational-02",
+    "size": "L",
+    "path": "foundational-02/48127-sap-authorization-managementsd.svg"
+  },
+  {
+    "file": "48128-sap-identity-directory.svg",
+    "title": "48128-sap-identity-directory",
+    "category": "foundational",
+    "library": "foundational-02",
+    "size": "L",
+    "path": "foundational-02/48128-sap-identity-directory.svg"
+  },
+  {
+    "file": "48129-sap-cloud-identity-service.svg",
+    "title": "48129-sap-cloud-identity-service",
+    "category": "foundational",
+    "library": "foundational-02",
+    "size": "L",
+    "path": "foundational-02/48129-sap-cloud-identity-service.svg"
+  },
+  {
+    "file": "48130-sap-secure-login-service-for-sap-guisd.svg",
+    "title": "48130-sap-secure-login-service-for-sap-guisd",
+    "category": "foundational",
+    "library": "foundational-02",
+    "size": "L",
+    "path": "foundational-02/48130-sap-secure-login-service-for-sap-guisd.svg"
+  },
+  {
+    "file": "48148-cloud-connector.svg",
+    "title": "48148-cloud-connector",
+    "category": "foundational",
+    "library": "foundational-02",
+    "size": "L",
+    "path": "foundational-02/48148-cloud-connector.svg"
+  },
+  {
+    "file": "application-vulnerability-report.svg",
+    "title": "Application Vulnerability Report",
+    "category": "foundational",
+    "library": "foundational-02",
+    "size": "L",
+    "path": "foundational-02/application-vulnerability-report.svg"
+  },
+  {
+    "file": "adapter-highlight-size-m.svg",
+    "title": "Adapter Highlight Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-01",
+    "size": "M",
+    "path": "generic-icons-01/adapter-highlight-size-m.svg"
+  },
+  {
+    "file": "adapter-highlight-size-s.svg",
+    "title": "Adapter Highlight Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-01",
+    "size": "S",
+    "path": "generic-icons-01/adapter-highlight-size-s.svg"
+  },
+  {
+    "file": "adapter-non-sap-size-m.svg",
+    "title": "Adapter Non-SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-01",
+    "size": "M",
+    "path": "generic-icons-01/adapter-non-sap-size-m.svg"
+  },
+  {
+    "file": "adapter-non-sap-size-s.svg",
+    "title": "Adapter Non-SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-01",
+    "size": "S",
+    "path": "generic-icons-01/adapter-non-sap-size-s.svg"
+  },
+  {
+    "file": "adapter-sap-size-m.svg",
+    "title": "Adapter SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-01",
+    "size": "M",
+    "path": "generic-icons-01/adapter-sap-size-m.svg"
+  },
+  {
+    "file": "adapter-sap-size-s.svg",
+    "title": "Adapter SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-01",
+    "size": "S",
+    "path": "generic-icons-01/adapter-sap-size-s.svg"
+  },
+  {
+    "file": "admin-highlight-size-m.svg",
+    "title": "Admin Highlight Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-01",
+    "size": "M",
+    "path": "generic-icons-01/admin-highlight-size-m.svg"
+  },
+  {
+    "file": "admin-highlight-size-s.svg",
+    "title": "Admin Highlight Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-01",
+    "size": "S",
+    "path": "generic-icons-01/admin-highlight-size-s.svg"
+  },
+  {
+    "file": "admin-non-sap-size-m.svg",
+    "title": "Admin Non-SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-01",
+    "size": "M",
+    "path": "generic-icons-01/admin-non-sap-size-m.svg"
+  },
+  {
+    "file": "admin-non-sap-size-s.svg",
+    "title": "Admin Non-SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-01",
+    "size": "S",
+    "path": "generic-icons-01/admin-non-sap-size-s.svg"
+  },
+  {
+    "file": "admin-sap-size-m.svg",
+    "title": "Admin SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-01",
+    "size": "M",
+    "path": "generic-icons-01/admin-sap-size-m.svg"
+  },
+  {
+    "file": "admin-sap-size-s.svg",
+    "title": "Admin SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-01",
+    "size": "S",
+    "path": "generic-icons-01/admin-sap-size-s.svg"
+  },
+  {
+    "file": "ai-agent-m.svg",
+    "title": "AI Agent M",
+    "category": "generic-icons",
+    "library": "generic-icons-01",
+    "size": "M",
+    "path": "generic-icons-01/ai-agent-m.svg"
+  },
+  {
+    "file": "ai-agent-s.svg",
+    "title": "AI Agent S",
+    "category": "generic-icons",
+    "library": "generic-icons-01",
+    "size": "S",
+    "path": "generic-icons-01/ai-agent-s.svg"
+  },
+  {
+    "file": "ai-highlight-size-m.svg",
+    "title": "AI Highlight-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-01",
+    "size": "M",
+    "path": "generic-icons-01/ai-highlight-size-m.svg"
+  },
+  {
+    "file": "ai-highlight-size-s.svg",
+    "title": "AI Highlight-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-01",
+    "size": "S",
+    "path": "generic-icons-01/ai-highlight-size-s.svg"
+  },
+  {
+    "file": "ai-non-sap-size-m.svg",
+    "title": "AI Non-SAP-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-01",
+    "size": "M",
+    "path": "generic-icons-01/ai-non-sap-size-m.svg"
+  },
+  {
+    "file": "ai-non-sap-size-s.svg",
+    "title": "AI Non-SAP-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-01",
+    "size": "S",
+    "path": "generic-icons-01/ai-non-sap-size-s.svg"
+  },
+  {
+    "file": "ai-sap-size-m.svg",
+    "title": "AI SAP-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-01",
+    "size": "M",
+    "path": "generic-icons-01/ai-sap-size-m.svg"
+  },
+  {
+    "file": "ai-sap-size-s.svg",
+    "title": "AI SAP-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-01",
+    "size": "S",
+    "path": "generic-icons-01/ai-sap-size-s.svg"
+  },
+  {
+    "file": "alert-highlight-size-m.svg",
+    "title": "Alert Highlight Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-01",
+    "size": "M",
+    "path": "generic-icons-01/alert-highlight-size-m.svg"
+  },
+  {
+    "file": "alert-highlight-size-s.svg",
+    "title": "Alert Highlight Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-01",
+    "size": "S",
+    "path": "generic-icons-01/alert-highlight-size-s.svg"
+  },
+  {
+    "file": "alert-non-sap-size-m.svg",
+    "title": "Alert Non-SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-01",
+    "size": "M",
+    "path": "generic-icons-01/alert-non-sap-size-m.svg"
+  },
+  {
+    "file": "alert-non-sap-size-s.svg",
+    "title": "Alert Non-SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-01",
+    "size": "S",
+    "path": "generic-icons-01/alert-non-sap-size-s.svg"
+  },
+  {
+    "file": "alert-sap-size-m.svg",
+    "title": "Alert SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-01",
+    "size": "M",
+    "path": "generic-icons-01/alert-sap-size-m.svg"
+  },
+  {
+    "file": "alert-sap-size-s.svg",
+    "title": "Alert SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-01",
+    "size": "S",
+    "path": "generic-icons-01/alert-sap-size-s.svg"
+  },
+  {
+    "file": "api-highlight-size-m.svg",
+    "title": "API Highlight Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-01",
+    "size": "M",
+    "path": "generic-icons-01/api-highlight-size-m.svg"
+  },
+  {
+    "file": "api-highlight-size-s.svg",
+    "title": "API Highlight Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-01",
+    "size": "S",
+    "path": "generic-icons-01/api-highlight-size-s.svg"
+  },
+  {
+    "file": "api-non-sap-size-m.svg",
+    "title": "API Non-SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-01",
+    "size": "M",
+    "path": "generic-icons-01/api-non-sap-size-m.svg"
+  },
+  {
+    "file": "api-non-sap-size-s.svg",
+    "title": "API Non-SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-01",
+    "size": "S",
+    "path": "generic-icons-01/api-non-sap-size-s.svg"
+  },
+  {
+    "file": "api-sap-size-m.svg",
+    "title": "API SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-02",
+    "size": "M",
+    "path": "generic-icons-02/api-sap-size-m.svg"
+  },
+  {
+    "file": "api-sap-size-s.svg",
+    "title": "API SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-02",
+    "size": "S",
+    "path": "generic-icons-02/api-sap-size-s.svg"
+  },
+  {
+    "file": "app-highlight-size-m.svg",
+    "title": "App Highlight Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-02",
+    "size": "M",
+    "path": "generic-icons-02/app-highlight-size-m.svg"
+  },
+  {
+    "file": "app-highlight-size-s.svg",
+    "title": "App Highlight Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-02",
+    "size": "S",
+    "path": "generic-icons-02/app-highlight-size-s.svg"
+  },
+  {
+    "file": "app-non-sap-size-m.svg",
+    "title": "App Non-SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-02",
+    "size": "M",
+    "path": "generic-icons-02/app-non-sap-size-m.svg"
+  },
+  {
+    "file": "app-non-sap-size-s.svg",
+    "title": "App Non-SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-02",
+    "size": "S",
+    "path": "generic-icons-02/app-non-sap-size-s.svg"
+  },
+  {
+    "file": "app-sap-size-m.svg",
+    "title": "App SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-02",
+    "size": "M",
+    "path": "generic-icons-02/app-sap-size-m.svg"
+  },
+  {
+    "file": "app-sap-size-s.svg",
+    "title": "App SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-02",
+    "size": "S",
+    "path": "generic-icons-02/app-sap-size-s.svg"
+  },
+  {
+    "file": "building-highlight-size-m.svg",
+    "title": "Building Highlight Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-02",
+    "size": "M",
+    "path": "generic-icons-02/building-highlight-size-m.svg"
+  },
+  {
+    "file": "building-highlight-size-s.svg",
+    "title": "Building Highlight Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-02",
+    "size": "S",
+    "path": "generic-icons-02/building-highlight-size-s.svg"
+  },
+  {
+    "file": "building-non-sap-size-m.svg",
+    "title": "Building Non-SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-02",
+    "size": "M",
+    "path": "generic-icons-02/building-non-sap-size-m.svg"
+  },
+  {
+    "file": "building-non-sap-size-s.svg",
+    "title": "Building Non-SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-02",
+    "size": "S",
+    "path": "generic-icons-02/building-non-sap-size-s.svg"
+  },
+  {
+    "file": "building-sap-size-m.svg",
+    "title": "Building SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-02",
+    "size": "M",
+    "path": "generic-icons-02/building-sap-size-m.svg"
+  },
+  {
+    "file": "building-sap-size-s.svg",
+    "title": "Building SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-02",
+    "size": "S",
+    "path": "generic-icons-02/building-sap-size-s.svg"
+  },
+  {
+    "file": "cloud-connector-highlight-size-m.svg",
+    "title": "Cloud Connector Highlight Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-02",
+    "size": "M",
+    "path": "generic-icons-02/cloud-connector-highlight-size-m.svg"
+  },
+  {
+    "file": "cloud-connector-highlight-size-s.svg",
+    "title": "Cloud Connector Highlight Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-02",
+    "size": "S",
+    "path": "generic-icons-02/cloud-connector-highlight-size-s.svg"
+  },
+  {
+    "file": "cloud-connector-non-sap-size-m.svg",
+    "title": "Cloud Connector Non-SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-02",
+    "size": "M",
+    "path": "generic-icons-02/cloud-connector-non-sap-size-m.svg"
+  },
+  {
+    "file": "cloud-connector-non-sap-size-s.svg",
+    "title": "Cloud Connector Non-SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-02",
+    "size": "S",
+    "path": "generic-icons-02/cloud-connector-non-sap-size-s.svg"
+  },
+  {
+    "file": "cloud-connector-sap-size-m.svg",
+    "title": "Cloud Connector SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-02",
+    "size": "M",
+    "path": "generic-icons-02/cloud-connector-sap-size-m.svg"
+  },
+  {
+    "file": "cloud-connector-sap-size-s.svg",
+    "title": "Cloud Connector SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-02",
+    "size": "S",
+    "path": "generic-icons-02/cloud-connector-sap-size-s.svg"
+  },
+  {
+    "file": "cloud-highlight-size-m.svg",
+    "title": "Cloud Highlight Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-02",
+    "size": "M",
+    "path": "generic-icons-02/cloud-highlight-size-m.svg"
+  },
+  {
+    "file": "cloud-highlight-size-s.svg",
+    "title": "Cloud Highlight Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-02",
+    "size": "S",
+    "path": "generic-icons-02/cloud-highlight-size-s.svg"
+  },
+  {
+    "file": "cloud-non-sap-size-m.svg",
+    "title": "Cloud Non-SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-02",
+    "size": "M",
+    "path": "generic-icons-02/cloud-non-sap-size-m.svg"
+  },
+  {
+    "file": "cloud-non-sap-size-s.svg",
+    "title": "Cloud Non-SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-02",
+    "size": "S",
+    "path": "generic-icons-02/cloud-non-sap-size-s.svg"
+  },
+  {
+    "file": "cloud-sap-size-m.svg",
+    "title": "Cloud SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-02",
+    "size": "M",
+    "path": "generic-icons-02/cloud-sap-size-m.svg"
+  },
+  {
+    "file": "cloud-sap-size-s.svg",
+    "title": "Cloud SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-02",
+    "size": "S",
+    "path": "generic-icons-02/cloud-sap-size-s.svg"
+  },
+  {
+    "file": "collision-highlight-size-m.svg",
+    "title": "Collision Highlight-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-02",
+    "size": "M",
+    "path": "generic-icons-02/collision-highlight-size-m.svg"
+  },
+  {
+    "file": "collision-highlight-size-s.svg",
+    "title": "Collision Highlight-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-02",
+    "size": "S",
+    "path": "generic-icons-02/collision-highlight-size-s.svg"
+  },
+  {
+    "file": "collision-non-sap-size-m.svg",
+    "title": "Collision Non-SAP-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-02",
+    "size": "M",
+    "path": "generic-icons-02/collision-non-sap-size-m.svg"
+  },
+  {
+    "file": "collision-non-sap-size-s.svg",
+    "title": "Collision Non-SAP-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-02",
+    "size": "S",
+    "path": "generic-icons-02/collision-non-sap-size-s.svg"
+  },
+  {
+    "file": "collision-sap-size-m.svg",
+    "title": "Collision SAP-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-03",
+    "size": "M",
+    "path": "generic-icons-03/collision-sap-size-m.svg"
+  },
+  {
+    "file": "collision-sap-size-s.svg",
+    "title": "Collision SAP-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-03",
+    "size": "S",
+    "path": "generic-icons-03/collision-sap-size-s.svg"
+  },
+  {
+    "file": "da-highlight-size-m.svg",
+    "title": "DA Highlight-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-03",
+    "size": "M",
+    "path": "generic-icons-03/da-highlight-size-m.svg"
+  },
+  {
+    "file": "da-highlight-size-s.svg",
+    "title": "DA Highlight-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-03",
+    "size": "S",
+    "path": "generic-icons-03/da-highlight-size-s.svg"
+  },
+  {
+    "file": "da-non-sap-size-m.svg",
+    "title": "DA Non-SAP-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-03",
+    "size": "M",
+    "path": "generic-icons-03/da-non-sap-size-m.svg"
+  },
+  {
+    "file": "da-non-sap-size-s.svg",
+    "title": "DA Non-SAP-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-03",
+    "size": "S",
+    "path": "generic-icons-03/da-non-sap-size-s.svg"
+  },
+  {
+    "file": "da-sap-size-m.svg",
+    "title": "DA SAP-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-03",
+    "size": "M",
+    "path": "generic-icons-03/da-sap-size-m.svg"
+  },
+  {
+    "file": "da-sap-size-s.svg",
+    "title": "DA SAP-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-03",
+    "size": "S",
+    "path": "generic-icons-03/da-sap-size-s.svg"
+  },
+  {
+    "file": "deploy-highlight-size-m.svg",
+    "title": "Deploy Highlight Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-03",
+    "size": "M",
+    "path": "generic-icons-03/deploy-highlight-size-m.svg"
+  },
+  {
+    "file": "deploy-highlight-size-s.svg",
+    "title": "Deploy Highlight Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-03",
+    "size": "S",
+    "path": "generic-icons-03/deploy-highlight-size-s.svg"
+  },
+  {
+    "file": "deploy-non-sap-size-m.svg",
+    "title": "Deploy Non-SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-03",
+    "size": "M",
+    "path": "generic-icons-03/deploy-non-sap-size-m.svg"
+  },
+  {
+    "file": "deploy-non-sap-size-s.svg",
+    "title": "Deploy Non-SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-03",
+    "size": "S",
+    "path": "generic-icons-03/deploy-non-sap-size-s.svg"
+  },
+  {
+    "file": "deploy-sap-size-m.svg",
+    "title": "Deploy SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-03",
+    "size": "M",
+    "path": "generic-icons-03/deploy-sap-size-m.svg"
+  },
+  {
+    "file": "deploy-sap-size-s.svg",
+    "title": "Deploy SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-03",
+    "size": "S",
+    "path": "generic-icons-03/deploy-sap-size-s.svg"
+  },
+  {
+    "file": "desktop-highlight-size-m.svg",
+    "title": "Desktop Highlight Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-03",
+    "size": "M",
+    "path": "generic-icons-03/desktop-highlight-size-m.svg"
+  },
+  {
+    "file": "desktop-highlight-size-s.svg",
+    "title": "Desktop Highlight Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-03",
+    "size": "S",
+    "path": "generic-icons-03/desktop-highlight-size-s.svg"
+  },
+  {
+    "file": "desktop-non-sap-size-m.svg",
+    "title": "Desktop Non-SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-03",
+    "size": "M",
+    "path": "generic-icons-03/desktop-non-sap-size-m.svg"
+  },
+  {
+    "file": "desktop-non-sap-size-s.svg",
+    "title": "Desktop Non-SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-03",
+    "size": "S",
+    "path": "generic-icons-03/desktop-non-sap-size-s.svg"
+  },
+  {
+    "file": "desktop-sap-size-m.svg",
+    "title": "Desktop SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-03",
+    "size": "M",
+    "path": "generic-icons-03/desktop-sap-size-m.svg"
+  },
+  {
+    "file": "desktop-sap-size-s.svg",
+    "title": "Desktop SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-03",
+    "size": "S",
+    "path": "generic-icons-03/desktop-sap-size-s.svg"
+  },
+  {
+    "file": "detail-view-highlight-size-m.svg",
+    "title": "Detail-View Highlight-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-03",
+    "size": "M",
+    "path": "generic-icons-03/detail-view-highlight-size-m.svg"
+  },
+  {
+    "file": "detail-view-highlight-size-s.svg",
+    "title": "Detail-View Highlight-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-03",
+    "size": "S",
+    "path": "generic-icons-03/detail-view-highlight-size-s.svg"
+  },
+  {
+    "file": "detail-view-non-sap-size-m.svg",
+    "title": "Detail-View Non-SAP-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-03",
+    "size": "M",
+    "path": "generic-icons-03/detail-view-non-sap-size-m.svg"
+  },
+  {
+    "file": "detail-view-non-sap-size-s.svg",
+    "title": "Detail-View Non-SAP-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-03",
+    "size": "S",
+    "path": "generic-icons-03/detail-view-non-sap-size-s.svg"
+  },
+  {
+    "file": "detail-view-sap-size-m.svg",
+    "title": "Detail-View SAP-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-03",
+    "size": "M",
+    "path": "generic-icons-03/detail-view-sap-size-m.svg"
+  },
+  {
+    "file": "detail-view-sap-size-s.svg",
+    "title": "Detail-View SAP-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-03",
+    "size": "S",
+    "path": "generic-icons-03/detail-view-sap-size-s.svg"
+  },
+  {
+    "file": "devices-highlight-size-m.svg",
+    "title": "Devices Highlight Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-03",
+    "size": "M",
+    "path": "generic-icons-03/devices-highlight-size-m.svg"
+  },
+  {
+    "file": "devices-highlight-size-s.svg",
+    "title": "Devices Highlight Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-03",
+    "size": "S",
+    "path": "generic-icons-03/devices-highlight-size-s.svg"
+  },
+  {
+    "file": "devices-non-sap-size-m.svg",
+    "title": "Devices Non-SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-03",
+    "size": "M",
+    "path": "generic-icons-03/devices-non-sap-size-m.svg"
+  },
+  {
+    "file": "devices-non-sap-size-s.svg",
+    "title": "Devices Non-SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-03",
+    "size": "S",
+    "path": "generic-icons-03/devices-non-sap-size-s.svg"
+  },
+  {
+    "file": "devices-sap-size-m.svg",
+    "title": "Devices SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-04",
+    "size": "M",
+    "path": "generic-icons-04/devices-sap-size-m.svg"
+  },
+  {
+    "file": "devices-sap-size-s.svg",
+    "title": "Devices SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-04",
+    "size": "S",
+    "path": "generic-icons-04/devices-sap-size-s.svg"
+  },
+  {
+    "file": "document-highlight-size-m.svg",
+    "title": "Document Highlight Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-04",
+    "size": "M",
+    "path": "generic-icons-04/document-highlight-size-m.svg"
+  },
+  {
+    "file": "document-highlight-size-s.svg",
+    "title": "Document Highlight Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-04",
+    "size": "S",
+    "path": "generic-icons-04/document-highlight-size-s.svg"
+  },
+  {
+    "file": "document-non-sap-size-m.svg",
+    "title": "Document Non-SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-04",
+    "size": "M",
+    "path": "generic-icons-04/document-non-sap-size-m.svg"
+  },
+  {
+    "file": "document-non-sap-size-s.svg",
+    "title": "Document Non-SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-04",
+    "size": "S",
+    "path": "generic-icons-04/document-non-sap-size-s.svg"
+  },
+  {
+    "file": "document-sap-size-m.svg",
+    "title": "Document SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-04",
+    "size": "M",
+    "path": "generic-icons-04/document-sap-size-m.svg"
+  },
+  {
+    "file": "document-sap-size-s.svg",
+    "title": "Document SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-04",
+    "size": "S",
+    "path": "generic-icons-04/document-sap-size-s.svg"
+  },
+  {
+    "file": "documents-highlight-size-m.svg",
+    "title": "Documents Highlight Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-04",
+    "size": "M",
+    "path": "generic-icons-04/documents-highlight-size-m.svg"
+  },
+  {
+    "file": "documents-highlight-size-s.svg",
+    "title": "Documents Highlight Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-04",
+    "size": "S",
+    "path": "generic-icons-04/documents-highlight-size-s.svg"
+  },
+  {
+    "file": "documents-non-sap-size-m.svg",
+    "title": "Documents Non-SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-04",
+    "size": "M",
+    "path": "generic-icons-04/documents-non-sap-size-m.svg"
+  },
+  {
+    "file": "documents-non-sap-size-s.svg",
+    "title": "Documents Non-SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-04",
+    "size": "S",
+    "path": "generic-icons-04/documents-non-sap-size-s.svg"
+  },
+  {
+    "file": "documents-sap-size-m.svg",
+    "title": "Documents SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-04",
+    "size": "M",
+    "path": "generic-icons-04/documents-sap-size-m.svg"
+  },
+  {
+    "file": "documents-sap-size-s.svg",
+    "title": "Documents SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-04",
+    "size": "S",
+    "path": "generic-icons-04/documents-sap-size-s.svg"
+  },
+  {
+    "file": "event-highlight-size-m.svg",
+    "title": "Event Highlight Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-04",
+    "size": "M",
+    "path": "generic-icons-04/event-highlight-size-m.svg"
+  },
+  {
+    "file": "event-highlight-size-s.svg",
+    "title": "Event Highlight Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-04",
+    "size": "S",
+    "path": "generic-icons-04/event-highlight-size-s.svg"
+  },
+  {
+    "file": "event-non-sap-size-s.svg",
+    "title": "Event Non-SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-04",
+    "size": "M",
+    "path": "generic-icons-04/event-non-sap-size-s.svg"
+  },
+  {
+    "file": "event-sap-size-s.svg",
+    "title": "Event SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-04",
+    "size": "M",
+    "path": "generic-icons-04/event-sap-size-s.svg"
+  },
+  {
+    "file": "factory-highlight-size-m.svg",
+    "title": "Factory Highlight Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-04",
+    "size": "M",
+    "path": "generic-icons-04/factory-highlight-size-m.svg"
+  },
+  {
+    "file": "factory-highlight-size-s.svg",
+    "title": "Factory Highlight Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-04",
+    "size": "S",
+    "path": "generic-icons-04/factory-highlight-size-s.svg"
+  },
+  {
+    "file": "factory-non-sap-size-m.svg",
+    "title": "Factory Non-SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-04",
+    "size": "M",
+    "path": "generic-icons-04/factory-non-sap-size-m.svg"
+  },
+  {
+    "file": "factory-non-sap-size-s.svg",
+    "title": "Factory Non-SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-04",
+    "size": "S",
+    "path": "generic-icons-04/factory-non-sap-size-s.svg"
+  },
+  {
+    "file": "factory-sap-size-m.svg",
+    "title": "Factory SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-04",
+    "size": "M",
+    "path": "generic-icons-04/factory-sap-size-m.svg"
+  },
+  {
+    "file": "factory-sap-size-s.svg",
+    "title": "Factory SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-04",
+    "size": "S",
+    "path": "generic-icons-04/factory-sap-size-s.svg"
+  },
+  {
+    "file": "feature-highlight-size-m.svg",
+    "title": "Feature Highlight Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-04",
+    "size": "M",
+    "path": "generic-icons-04/feature-highlight-size-m.svg"
+  },
+  {
+    "file": "feature-highlight-size-s.svg",
+    "title": "Feature Highlight Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-04",
+    "size": "S",
+    "path": "generic-icons-04/feature-highlight-size-s.svg"
+  },
+  {
+    "file": "feature-non-sap-size-m.svg",
+    "title": "Feature Non-SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-04",
+    "size": "M",
+    "path": "generic-icons-04/feature-non-sap-size-m.svg"
+  },
+  {
+    "file": "feature-non-sap-size-s.svg",
+    "title": "Feature Non-SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-04",
+    "size": "S",
+    "path": "generic-icons-04/feature-non-sap-size-s.svg"
+  },
+  {
+    "file": "feature-sap-size-m.svg",
+    "title": "Feature SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-04",
+    "size": "M",
+    "path": "generic-icons-04/feature-sap-size-m.svg"
+  },
+  {
+    "file": "feature-sap-size-s.svg",
+    "title": "Feature SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-04",
+    "size": "S",
+    "path": "generic-icons-04/feature-sap-size-s.svg"
+  },
+  {
+    "file": "indent-highlight-size-m.svg",
+    "title": "Indent Highlight-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-05",
+    "size": "M",
+    "path": "generic-icons-05/indent-highlight-size-m.svg"
+  },
+  {
+    "file": "indent-highlight-size-s.svg",
+    "title": "Indent Highlight-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-05",
+    "size": "S",
+    "path": "generic-icons-05/indent-highlight-size-s.svg"
+  },
+  {
+    "file": "indent-non-sap-size-m.svg",
+    "title": "Indent Non-SAP-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-05",
+    "size": "M",
+    "path": "generic-icons-05/indent-non-sap-size-m.svg"
+  },
+  {
+    "file": "indent-non-sap-size-s.svg",
+    "title": "Indent Non-SAP-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-05",
+    "size": "S",
+    "path": "generic-icons-05/indent-non-sap-size-s.svg"
+  },
+  {
+    "file": "indent-sap-size-m.svg",
+    "title": "Indent SAP-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-05",
+    "size": "M",
+    "path": "generic-icons-05/indent-sap-size-m.svg"
+  },
+  {
+    "file": "indent-sap-size-s.svg",
+    "title": "Indent SAP-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-05",
+    "size": "S",
+    "path": "generic-icons-05/indent-sap-size-s.svg"
+  },
+  {
+    "file": "info-highlight-size-m.svg",
+    "title": "Info Highlight Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-05",
+    "size": "M",
+    "path": "generic-icons-05/info-highlight-size-m.svg"
+  },
+  {
+    "file": "info-highlight-size-s.svg",
+    "title": "Info Highlight Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-05",
+    "size": "S",
+    "path": "generic-icons-05/info-highlight-size-s.svg"
+  },
+  {
+    "file": "info-non-sap-size-m.svg",
+    "title": "Info Non-SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-05",
+    "size": "M",
+    "path": "generic-icons-05/info-non-sap-size-m.svg"
+  },
+  {
+    "file": "info-non-sap-size-s.svg",
+    "title": "Info Non-SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-05",
+    "size": "S",
+    "path": "generic-icons-05/info-non-sap-size-s.svg"
+  },
+  {
+    "file": "info-sap-size-m.svg",
+    "title": "Info SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-05",
+    "size": "M",
+    "path": "generic-icons-05/info-sap-size-m.svg"
+  },
+  {
+    "file": "info-sap-size-s.svg",
+    "title": "Info SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-05",
+    "size": "S",
+    "path": "generic-icons-05/info-sap-size-s.svg"
+  },
+  {
+    "file": "inspect-highlight-size-m.svg",
+    "title": "Inspect Highlight-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-05",
+    "size": "M",
+    "path": "generic-icons-05/inspect-highlight-size-m.svg"
+  },
+  {
+    "file": "inspect-highlight-size-s.svg",
+    "title": "Inspect Highlight-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-05",
+    "size": "S",
+    "path": "generic-icons-05/inspect-highlight-size-s.svg"
+  },
+  {
+    "file": "inspect-non-sap-size-m.svg",
+    "title": "Inspect Non-SAP-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-05",
+    "size": "M",
+    "path": "generic-icons-05/inspect-non-sap-size-m.svg"
+  },
+  {
+    "file": "inspect-non-sap-size-s.svg",
+    "title": "Inspect Non-SAP-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-05",
+    "size": "S",
+    "path": "generic-icons-05/inspect-non-sap-size-s.svg"
+  },
+  {
+    "file": "inspect-sap-size-m.svg",
+    "title": "Inspect SAP-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-05",
+    "size": "M",
+    "path": "generic-icons-05/inspect-sap-size-m.svg"
+  },
+  {
+    "file": "inspect-sap-size-s.svg",
+    "title": "Inspect SAP-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-05",
+    "size": "S",
+    "path": "generic-icons-05/inspect-sap-size-s.svg"
+  },
+  {
+    "file": "key-highlight-size-m.svg",
+    "title": "Key Highlight Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-05",
+    "size": "M",
+    "path": "generic-icons-05/key-highlight-size-m.svg"
+  },
+  {
+    "file": "key-highlight-size-s.svg",
+    "title": "Key Highlight Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-05",
+    "size": "S",
+    "path": "generic-icons-05/key-highlight-size-s.svg"
+  },
+  {
+    "file": "key-non-sap-size-m.svg",
+    "title": "Key Non-SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-05",
+    "size": "M",
+    "path": "generic-icons-05/key-non-sap-size-m.svg"
+  },
+  {
+    "file": "key-non-sap-size-s.svg",
+    "title": "Key Non-SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-05",
+    "size": "S",
+    "path": "generic-icons-05/key-non-sap-size-s.svg"
+  },
+  {
+    "file": "key-sap-size-m.svg",
+    "title": "Key SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-05",
+    "size": "M",
+    "path": "generic-icons-05/key-sap-size-m.svg"
+  },
+  {
+    "file": "key-sap-size-s.svg",
+    "title": "Key SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-05",
+    "size": "S",
+    "path": "generic-icons-05/key-sap-size-s.svg"
+  },
+  {
+    "file": "link-highlight-size-m.svg",
+    "title": "Link Highlight Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-05",
+    "size": "M",
+    "path": "generic-icons-05/link-highlight-size-m.svg"
+  },
+  {
+    "file": "link-highlight-size-s.svg",
+    "title": "Link Highlight Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-05",
+    "size": "S",
+    "path": "generic-icons-05/link-highlight-size-s.svg"
+  },
+  {
+    "file": "link-non-sap-size-m.svg",
+    "title": "Link Non-SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-05",
+    "size": "M",
+    "path": "generic-icons-05/link-non-sap-size-m.svg"
+  },
+  {
+    "file": "link-non-sap-size-s.svg",
+    "title": "Link Non-SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-05",
+    "size": "S",
+    "path": "generic-icons-05/link-non-sap-size-s.svg"
+  },
+  {
+    "file": "link-sap-size-m.svg",
+    "title": "Link SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-05",
+    "size": "M",
+    "path": "generic-icons-05/link-sap-size-m.svg"
+  },
+  {
+    "file": "link-sap-size-s.svg",
+    "title": "Link SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-05",
+    "size": "S",
+    "path": "generic-icons-05/link-sap-size-s.svg"
+  },
+  {
+    "file": "locked-highlight-size-m.svg",
+    "title": "Locked Highlight Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-06",
+    "size": "M",
+    "path": "generic-icons-06/locked-highlight-size-m.svg"
+  },
+  {
+    "file": "locked-highlight-size-s.svg",
+    "title": "Locked Highlight Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-06",
+    "size": "S",
+    "path": "generic-icons-06/locked-highlight-size-s.svg"
+  },
+  {
+    "file": "locked-non-sap-size-m.svg",
+    "title": "Locked Non-SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-06",
+    "size": "M",
+    "path": "generic-icons-06/locked-non-sap-size-m.svg"
+  },
+  {
+    "file": "locked-non-sap-size-s.svg",
+    "title": "Locked Non-SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-06",
+    "size": "S",
+    "path": "generic-icons-06/locked-non-sap-size-s.svg"
+  },
+  {
+    "file": "locked-sap-size-m.svg",
+    "title": "Locked SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-06",
+    "size": "M",
+    "path": "generic-icons-06/locked-sap-size-m.svg"
+  },
+  {
+    "file": "locked-sap-size-s.svg",
+    "title": "Locked SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-06",
+    "size": "S",
+    "path": "generic-icons-06/locked-sap-size-s.svg"
+  },
+  {
+    "file": "machine-highlight-size-m.svg",
+    "title": "Machine Highlight Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-06",
+    "size": "M",
+    "path": "generic-icons-06/machine-highlight-size-m.svg"
+  },
+  {
+    "file": "machine-highlight-size-s.svg",
+    "title": "Machine Highlight Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-06",
+    "size": "S",
+    "path": "generic-icons-06/machine-highlight-size-s.svg"
+  },
+  {
+    "file": "machine-non-sap-size-m.svg",
+    "title": "Machine Non-SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-06",
+    "size": "M",
+    "path": "generic-icons-06/machine-non-sap-size-m.svg"
+  },
+  {
+    "file": "machine-non-sap-size-s.svg",
+    "title": "Machine Non-SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-06",
+    "size": "S",
+    "path": "generic-icons-06/machine-non-sap-size-s.svg"
+  },
+  {
+    "file": "machine-sap-size-m.svg",
+    "title": "Machine SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-06",
+    "size": "M",
+    "path": "generic-icons-06/machine-sap-size-m.svg"
+  },
+  {
+    "file": "machine-sap-size-s.svg",
+    "title": "Machine SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-06",
+    "size": "S",
+    "path": "generic-icons-06/machine-sap-size-s.svg"
+  },
+  {
+    "file": "message-highlight-size-m.svg",
+    "title": "Message Highlight Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-06",
+    "size": "M",
+    "path": "generic-icons-06/message-highlight-size-m.svg"
+  },
+  {
+    "file": "message-highlight-size-s.svg",
+    "title": "Message Highlight Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-06",
+    "size": "S",
+    "path": "generic-icons-06/message-highlight-size-s.svg"
+  },
+  {
+    "file": "message-non-sap-size-m.svg",
+    "title": "Message Non-SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-06",
+    "size": "M",
+    "path": "generic-icons-06/message-non-sap-size-m.svg"
+  },
+  {
+    "file": "message-non-sap-size-s.svg",
+    "title": "Message Non-SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-06",
+    "size": "S",
+    "path": "generic-icons-06/message-non-sap-size-s.svg"
+  },
+  {
+    "file": "message-sap-size-m.svg",
+    "title": "Message SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-06",
+    "size": "M",
+    "path": "generic-icons-06/message-sap-size-m.svg"
+  },
+  {
+    "file": "message-sap-size-s.svg",
+    "title": "Message SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-06",
+    "size": "S",
+    "path": "generic-icons-06/message-sap-size-s.svg"
+  },
+  {
+    "file": "mobile-highlight-size-m.svg",
+    "title": "Mobile Highlight Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-06",
+    "size": "M",
+    "path": "generic-icons-06/mobile-highlight-size-m.svg"
+  },
+  {
+    "file": "mobile-highlight-size-s.svg",
+    "title": "Mobile Highlight Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-06",
+    "size": "S",
+    "path": "generic-icons-06/mobile-highlight-size-s.svg"
+  },
+  {
+    "file": "mobile-non-sap-size-m.svg",
+    "title": "Mobile Non-SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-06",
+    "size": "M",
+    "path": "generic-icons-06/mobile-non-sap-size-m.svg"
+  },
+  {
+    "file": "mobile-non-sap-size-s.svg",
+    "title": "Mobile Non-SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-06",
+    "size": "S",
+    "path": "generic-icons-06/mobile-non-sap-size-s.svg"
+  },
+  {
+    "file": "mobile-sap-size-m.svg",
+    "title": "Mobile SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-06",
+    "size": "M",
+    "path": "generic-icons-06/mobile-sap-size-m.svg"
+  },
+  {
+    "file": "mobile-sap-size-s.svg",
+    "title": "Mobile SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-06",
+    "size": "S",
+    "path": "generic-icons-06/mobile-sap-size-s.svg"
+  },
+  {
+    "file": "on-premise-highlight-size-m.svg",
+    "title": "On-Premise Highlight Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-06",
+    "size": "M",
+    "path": "generic-icons-06/on-premise-highlight-size-m.svg"
+  },
+  {
+    "file": "on-premise-highlight-size-s.svg",
+    "title": "On-Premise Highlight Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-06",
+    "size": "S",
+    "path": "generic-icons-06/on-premise-highlight-size-s.svg"
+  },
+  {
+    "file": "on-premise-non-sap-size-m.svg",
+    "title": "On-Premise Non-SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-06",
+    "size": "M",
+    "path": "generic-icons-06/on-premise-non-sap-size-m.svg"
+  },
+  {
+    "file": "on-premise-non-sap-size-s.svg",
+    "title": "On-Premise Non-SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-06",
+    "size": "S",
+    "path": "generic-icons-06/on-premise-non-sap-size-s.svg"
+  },
+  {
+    "file": "on-premise-sap-size-m.svg",
+    "title": "On-Premise SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-06",
+    "size": "M",
+    "path": "generic-icons-06/on-premise-sap-size-m.svg"
+  },
+  {
+    "file": "on-premise-sap-size-s.svg",
+    "title": "On-Premise SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-06",
+    "size": "S",
+    "path": "generic-icons-06/on-premise-sap-size-s.svg"
+  },
+  {
+    "file": "palette-highlight-size-m.svg",
+    "title": "Palette Highlight-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-07",
+    "size": "M",
+    "path": "generic-icons-07/palette-highlight-size-m.svg"
+  },
+  {
+    "file": "palette-highlight-size-s.svg",
+    "title": "Palette Highlight-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-07",
+    "size": "S",
+    "path": "generic-icons-07/palette-highlight-size-s.svg"
+  },
+  {
+    "file": "palette-non-sap-size-m.svg",
+    "title": "Palette Non-SAP-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-07",
+    "size": "M",
+    "path": "generic-icons-07/palette-non-sap-size-m.svg"
+  },
+  {
+    "file": "palette-non-sap-size-s.svg",
+    "title": "Palette Non-SAP-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-07",
+    "size": "S",
+    "path": "generic-icons-07/palette-non-sap-size-s.svg"
+  },
+  {
+    "file": "palette-sap-size-m.svg",
+    "title": "Palette SAP-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-07",
+    "size": "M",
+    "path": "generic-icons-07/palette-sap-size-m.svg"
+  },
+  {
+    "file": "palette-sap-size-s.svg",
+    "title": "Palette SAP-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-07",
+    "size": "S",
+    "path": "generic-icons-07/palette-sap-size-s.svg"
+  },
+  {
+    "file": "paper-plane-highlight-size-m.svg",
+    "title": "Paper-Plane Highlight-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-07",
+    "size": "M",
+    "path": "generic-icons-07/paper-plane-highlight-size-m.svg"
+  },
+  {
+    "file": "paper-plane-highlight-size-s.svg",
+    "title": "Paper-Plane Highlight-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-07",
+    "size": "S",
+    "path": "generic-icons-07/paper-plane-highlight-size-s.svg"
+  },
+  {
+    "file": "paper-plane-non-sap-size-m.svg",
+    "title": "Paper-Plane Non-SAP-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-07",
+    "size": "M",
+    "path": "generic-icons-07/paper-plane-non-sap-size-m.svg"
+  },
+  {
+    "file": "paper-plane-non-sap-size-s.svg",
+    "title": "Paper-Plane Non-SAP-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-07",
+    "size": "S",
+    "path": "generic-icons-07/paper-plane-non-sap-size-s.svg"
+  },
+  {
+    "file": "paper-plane-sap-size-m.svg",
+    "title": "Paper-Plane SAP-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-07",
+    "size": "M",
+    "path": "generic-icons-07/paper-plane-sap-size-m.svg"
+  },
+  {
+    "file": "paper-plane-sap-size-s.svg",
+    "title": "Paper-Plane SAP-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-07",
+    "size": "S",
+    "path": "generic-icons-07/paper-plane-sap-size-s.svg"
+  },
+  {
+    "file": "permission-highlight-size-m.svg",
+    "title": "Permission Highlight-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-07",
+    "size": "M",
+    "path": "generic-icons-07/permission-highlight-size-m.svg"
+  },
+  {
+    "file": "permission-highlight-size-s.svg",
+    "title": "Permission Highlight-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-07",
+    "size": "S",
+    "path": "generic-icons-07/permission-highlight-size-s.svg"
+  },
+  {
+    "file": "permission-non-sap-size-m.svg",
+    "title": "Permission Non-SAP-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-07",
+    "size": "M",
+    "path": "generic-icons-07/permission-non-sap-size-m.svg"
+  },
+  {
+    "file": "permission-non-sap-size-s.svg",
+    "title": "Permission Non-SAP-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-07",
+    "size": "S",
+    "path": "generic-icons-07/permission-non-sap-size-s.svg"
+  },
+  {
+    "file": "permission-sap-size-m.svg",
+    "title": "Permission SAP-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-07",
+    "size": "M",
+    "path": "generic-icons-07/permission-sap-size-m.svg"
+  },
+  {
+    "file": "permission-sap-size-s.svg",
+    "title": "Permission SAP-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-07",
+    "size": "S",
+    "path": "generic-icons-07/permission-sap-size-s.svg"
+  },
+  {
+    "file": "restart-highlight-size-m.svg",
+    "title": "Restart Highlight-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-07",
+    "size": "M",
+    "path": "generic-icons-07/restart-highlight-size-m.svg"
+  },
+  {
+    "file": "restart-highlight-size-s.svg",
+    "title": "Restart Highlight-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-07",
+    "size": "S",
+    "path": "generic-icons-07/restart-highlight-size-s.svg"
+  },
+  {
+    "file": "restart-non-sap-size-m.svg",
+    "title": "Restart Non-SAP-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-07",
+    "size": "M",
+    "path": "generic-icons-07/restart-non-sap-size-m.svg"
+  },
+  {
+    "file": "restart-non-sap-size-s.svg",
+    "title": "Restart Non-SAP-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-07",
+    "size": "S",
+    "path": "generic-icons-07/restart-non-sap-size-s.svg"
+  },
+  {
+    "file": "restart-sap-size-m.svg",
+    "title": "Restart SAP-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-07",
+    "size": "M",
+    "path": "generic-icons-07/restart-sap-size-m.svg"
+  },
+  {
+    "file": "restart-sap-size-s.svg",
+    "title": "Restart SAP-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-07",
+    "size": "S",
+    "path": "generic-icons-07/restart-sap-size-s.svg"
+  },
+  {
+    "file": "settings-highlight-size-m.svg",
+    "title": "Settings Highlight Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-07",
+    "size": "M",
+    "path": "generic-icons-07/settings-highlight-size-m.svg"
+  },
+  {
+    "file": "settings-highlight-size-s.svg",
+    "title": "Settings Highlight Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-07",
+    "size": "S",
+    "path": "generic-icons-07/settings-highlight-size-s.svg"
+  },
+  {
+    "file": "settings-non-sap-size-m.svg",
+    "title": "Settings Non-SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-07",
+    "size": "M",
+    "path": "generic-icons-07/settings-non-sap-size-m.svg"
+  },
+  {
+    "file": "settings-non-sap-size-s.svg",
+    "title": "Settings Non-SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-07",
+    "size": "S",
+    "path": "generic-icons-07/settings-non-sap-size-s.svg"
+  },
+  {
+    "file": "settings-sap-size-m.svg",
+    "title": "Settings SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-07",
+    "size": "M",
+    "path": "generic-icons-07/settings-sap-size-m.svg"
+  },
+  {
+    "file": "settings-sap-size-s.svg",
+    "title": "Settings SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-07",
+    "size": "S",
+    "path": "generic-icons-07/settings-sap-size-s.svg"
+  },
+  {
+    "file": "success-highlight-size-m.svg",
+    "title": "Success Highlight Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-08",
+    "size": "M",
+    "path": "generic-icons-08/success-highlight-size-m.svg"
+  },
+  {
+    "file": "success-highlight-size-s.svg",
+    "title": "Success Highlight Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-08",
+    "size": "S",
+    "path": "generic-icons-08/success-highlight-size-s.svg"
+  },
+  {
+    "file": "success-non-sap-size-m.svg",
+    "title": "Success Non-SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-08",
+    "size": "M",
+    "path": "generic-icons-08/success-non-sap-size-m.svg"
+  },
+  {
+    "file": "success-non-sap-size-s.svg",
+    "title": "Success Non-SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-08",
+    "size": "S",
+    "path": "generic-icons-08/success-non-sap-size-s.svg"
+  },
+  {
+    "file": "success-sap-size-m.svg",
+    "title": "Success SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-08",
+    "size": "M",
+    "path": "generic-icons-08/success-sap-size-m.svg"
+  },
+  {
+    "file": "success-sap-size-s.svg",
+    "title": "Success SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-08",
+    "size": "S",
+    "path": "generic-icons-08/success-sap-size-s.svg"
+  },
+  {
+    "file": "synchronize-highlight-size-m.svg",
+    "title": "Synchronize Highlight-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-08",
+    "size": "M",
+    "path": "generic-icons-08/synchronize-highlight-size-m.svg"
+  },
+  {
+    "file": "synchronize-highlight-size-s.svg",
+    "title": "Synchronize Highlight-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-08",
+    "size": "S",
+    "path": "generic-icons-08/synchronize-highlight-size-s.svg"
+  },
+  {
+    "file": "synchronize-non-sap-size-m.svg",
+    "title": "Synchronize Non-SAP-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-08",
+    "size": "M",
+    "path": "generic-icons-08/synchronize-non-sap-size-m.svg"
+  },
+  {
+    "file": "synchronize-non-sap-size-s.svg",
+    "title": "Synchronize Non-SAP-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-08",
+    "size": "S",
+    "path": "generic-icons-08/synchronize-non-sap-size-s.svg"
+  },
+  {
+    "file": "synchronize-sap-size-m.svg",
+    "title": "Synchronize SAP-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-08",
+    "size": "M",
+    "path": "generic-icons-08/synchronize-sap-size-m.svg"
+  },
+  {
+    "file": "synchronize-sap-size-s.svg",
+    "title": "Synchronize SAP-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-08",
+    "size": "S",
+    "path": "generic-icons-08/synchronize-sap-size-s.svg"
+  },
+  {
+    "file": "third-party-highlight-size-m.svg",
+    "title": "Third Party Highlight Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-08",
+    "size": "M",
+    "path": "generic-icons-08/third-party-highlight-size-m.svg"
+  },
+  {
+    "file": "third-party-highlight-size-s.svg",
+    "title": "Third Party Highlight Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-08",
+    "size": "S",
+    "path": "generic-icons-08/third-party-highlight-size-s.svg"
+  },
+  {
+    "file": "third-party-non-sap-size-m.svg",
+    "title": "Third Party Non-SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-08",
+    "size": "M",
+    "path": "generic-icons-08/third-party-non-sap-size-m.svg"
+  },
+  {
+    "file": "third-party-non-sap-size-s.svg",
+    "title": "Third Party Non-SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-08",
+    "size": "S",
+    "path": "generic-icons-08/third-party-non-sap-size-s.svg"
+  },
+  {
+    "file": "third-party-sap-size-m.svg",
+    "title": "Third Party SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-08",
+    "size": "M",
+    "path": "generic-icons-08/third-party-sap-size-m.svg"
+  },
+  {
+    "file": "third-party-sap-size-s.svg",
+    "title": "Third Party SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-08",
+    "size": "S",
+    "path": "generic-icons-08/third-party-sap-size-s.svg"
+  },
+  {
+    "file": "tree-highlight-size-m.svg",
+    "title": "Tree Highlight-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-08",
+    "size": "M",
+    "path": "generic-icons-08/tree-highlight-size-m.svg"
+  },
+  {
+    "file": "tree-highlight-size-s.svg",
+    "title": "Tree Highlight-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-08",
+    "size": "S",
+    "path": "generic-icons-08/tree-highlight-size-s.svg"
+  },
+  {
+    "file": "tree-non-sap-size-m.svg",
+    "title": "Tree Non-SAP-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-08",
+    "size": "M",
+    "path": "generic-icons-08/tree-non-sap-size-m.svg"
+  },
+  {
+    "file": "tree-non-sap-size-s.svg",
+    "title": "Tree Non-SAP-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-08",
+    "size": "S",
+    "path": "generic-icons-08/tree-non-sap-size-s.svg"
+  },
+  {
+    "file": "tree-sap-size-m.svg",
+    "title": "Tree SAP-Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-08",
+    "size": "M",
+    "path": "generic-icons-08/tree-sap-size-m.svg"
+  },
+  {
+    "file": "tree-sap-size-s.svg",
+    "title": "Tree SAP-Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-08",
+    "size": "S",
+    "path": "generic-icons-08/tree-sap-size-s.svg"
+  },
+  {
+    "file": "user-highlight-size-m.svg",
+    "title": "User Highlight Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-08",
+    "size": "M",
+    "path": "generic-icons-08/user-highlight-size-m.svg"
+  },
+  {
+    "file": "user-highlight-size-s.svg",
+    "title": "User Highlight Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-08",
+    "size": "S",
+    "path": "generic-icons-08/user-highlight-size-s.svg"
+  },
+  {
+    "file": "user-non-sap-size-m.svg",
+    "title": "User Non-SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-08",
+    "size": "M",
+    "path": "generic-icons-08/user-non-sap-size-m.svg"
+  },
+  {
+    "file": "user-non-sap-size-s.svg",
+    "title": "User Non-SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-08",
+    "size": "S",
+    "path": "generic-icons-08/user-non-sap-size-s.svg"
+  },
+  {
+    "file": "user-sap-size-m.svg",
+    "title": "User SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-08",
+    "size": "M",
+    "path": "generic-icons-08/user-sap-size-m.svg"
+  },
+  {
+    "file": "user-sap-size-s.svg",
+    "title": "User SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-08",
+    "size": "S",
+    "path": "generic-icons-08/user-sap-size-s.svg"
+  },
+  {
+    "file": "web-highlight-size-m.svg",
+    "title": "Web Highlight Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-09",
+    "size": "M",
+    "path": "generic-icons-09/web-highlight-size-m.svg"
+  },
+  {
+    "file": "web-highlight-size-s.svg",
+    "title": "Web Highlight Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-09",
+    "size": "S",
+    "path": "generic-icons-09/web-highlight-size-s.svg"
+  },
+  {
+    "file": "web-non-sap-size-m.svg",
+    "title": "Web Non-SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-09",
+    "size": "M",
+    "path": "generic-icons-09/web-non-sap-size-m.svg"
+  },
+  {
+    "file": "web-non-sap-size-s.svg",
+    "title": "Web Non-SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-09",
+    "size": "S",
+    "path": "generic-icons-09/web-non-sap-size-s.svg"
+  },
+  {
+    "file": "web-sap-size-m.svg",
+    "title": "Web SAP Size M",
+    "category": "generic-icons",
+    "library": "generic-icons-09",
+    "size": "M",
+    "path": "generic-icons-09/web-sap-size-m.svg"
+  },
+  {
+    "file": "web-sap-size-s.svg",
+    "title": "Web SAP Size S",
+    "category": "generic-icons",
+    "library": "generic-icons-09",
+    "size": "S",
+    "path": "generic-icons-09/web-sap-size-s.svg"
+  },
+  {
+    "file": "31037-event-meshsd.svg",
+    "title": "31037-event-meshsd",
+    "category": "integration-suite",
+    "library": "integration-suite",
+    "size": "M",
+    "path": "integration-suite/31037-event-meshsd.svg"
+  },
+  {
+    "file": "32032-advanced-event-meshsd.svg",
+    "title": "32032-advanced-event-meshsd",
+    "category": "integration-suite",
+    "library": "integration-suite",
+    "size": "M",
+    "path": "integration-suite/32032-advanced-event-meshsd.svg"
+  },
+  {
+    "file": "32086-sap-integration-suitesd.svg",
+    "title": "32086-sap-integration-suitesd",
+    "category": "integration-suite",
+    "library": "integration-suite",
+    "size": "M",
+    "path": "integration-suite/32086-sap-integration-suitesd.svg"
+  },
+  {
+    "file": "32087-graphsd.svg",
+    "title": "32087-graphsd",
+    "category": "integration-suite",
+    "library": "integration-suite",
+    "size": "M",
+    "path": "integration-suite/32087-graphsd.svg"
+  },
+  {
+    "file": "32133-api-managementsd.svg",
+    "title": "32133-api-managementsd",
+    "category": "integration-suite",
+    "library": "integration-suite",
+    "size": "M",
+    "path": "integration-suite/32133-api-managementsd.svg"
+  },
+  {
+    "file": "32134-cloud-integrationsd.svg",
+    "title": "32134-cloud-integrationsd",
+    "category": "integration-suite",
+    "library": "integration-suite",
+    "size": "M",
+    "path": "integration-suite/32134-cloud-integrationsd.svg"
+  },
+  {
+    "file": "32135-data-space-integrationsd.svg",
+    "title": "32135-data-space-integrationsd",
+    "category": "integration-suite",
+    "library": "integration-suite",
+    "size": "M",
+    "path": "integration-suite/32135-data-space-integrationsd.svg"
+  },
+  {
+    "file": "32136-edge-integration-cellsd.svg",
+    "title": "32136-edge-integration-cellsd",
+    "category": "integration-suite",
+    "library": "integration-suite",
+    "size": "M",
+    "path": "integration-suite/32136-edge-integration-cellsd.svg"
+  },
+  {
+    "file": "32138-integration-advisorsd.svg",
+    "title": "32138-integration-advisorsd",
+    "category": "integration-suite",
+    "library": "integration-suite",
+    "size": "M",
+    "path": "integration-suite/32138-integration-advisorsd.svg"
+  },
+  {
+    "file": "32139-integration-assessmentsd.svg",
+    "title": "32139-integration-assessmentsd",
+    "category": "integration-suite",
+    "library": "integration-suite",
+    "size": "M",
+    "path": "integration-suite/32139-integration-assessmentsd.svg"
+  },
+  {
+    "file": "32140-migration-assessmentsd.svg",
+    "title": "32140-migration-assessmentsd",
+    "category": "integration-suite",
+    "library": "integration-suite",
+    "size": "M",
+    "path": "integration-suite/32140-migration-assessmentsd.svg"
+  },
+  {
+    "file": "32141-open-connectorssd.svg",
+    "title": "32141-open-connectorssd",
+    "category": "integration-suite",
+    "library": "integration-suite",
+    "size": "M",
+    "path": "integration-suite/32141-open-connectorssd.svg"
+  },
+  {
+    "file": "32142-trading-partner-managementsd.svg",
+    "title": "32142-trading-partner-managementsd",
+    "category": "integration-suite",
+    "library": "integration-suite",
+    "size": "M",
+    "path": "integration-suite/32142-trading-partner-managementsd.svg"
+  },
+  {
+    "file": "32153-sap-business-accelerator--hubsd.svg",
+    "title": "32153-sap-business-accelerator- hubsd",
+    "category": "integration-suite",
+    "library": "integration-suite",
+    "size": "M",
+    "path": "integration-suite/32153-sap-business-accelerator--hubsd.svg"
+  },
+  {
+    "file": "32154-sap-api-hub-enterprise.svg",
+    "title": "32154-sap-api-hub-enterprise",
+    "category": "integration-suite",
+    "library": "integration-suite",
+    "size": "M",
+    "path": "integration-suite/32154-sap-api-hub-enterprise.svg"
+  },
+  {
+    "file": "48048-advanced-event-meshsd.svg",
+    "title": "48048-advanced-event-meshsd",
+    "category": "integration-suite",
+    "library": "integration-suite",
+    "size": "L",
+    "path": "integration-suite/48048-advanced-event-meshsd.svg"
+  },
+  {
+    "file": "48086-sap-integration-suitesd.svg",
+    "title": "48086-sap-integration-suitesd",
+    "category": "integration-suite",
+    "library": "integration-suite",
+    "size": "L",
+    "path": "integration-suite/48086-sap-integration-suitesd.svg"
+  },
+  {
+    "file": "48087-graphsd.svg",
+    "title": "48087-graphsd",
+    "category": "integration-suite",
+    "library": "integration-suite",
+    "size": "L",
+    "path": "integration-suite/48087-graphsd.svg"
+  },
+  {
+    "file": "48133-api-managementsd.svg",
+    "title": "48133-api-managementsd",
+    "category": "integration-suite",
+    "library": "integration-suite",
+    "size": "L",
+    "path": "integration-suite/48133-api-managementsd.svg"
+  },
+  {
+    "file": "48134-cloud-integrationsd.svg",
+    "title": "48134-cloud-integrationsd",
+    "category": "integration-suite",
+    "library": "integration-suite",
+    "size": "L",
+    "path": "integration-suite/48134-cloud-integrationsd.svg"
+  },
+  {
+    "file": "48135-data-space-integrationsd.svg",
+    "title": "48135-data-space-integrationsd",
+    "category": "integration-suite",
+    "library": "integration-suite",
+    "size": "L",
+    "path": "integration-suite/48135-data-space-integrationsd.svg"
+  },
+  {
+    "file": "48136-edge-integration-cellsd.svg",
+    "title": "48136-edge-integration-cellsd",
+    "category": "integration-suite",
+    "library": "integration-suite",
+    "size": "L",
+    "path": "integration-suite/48136-edge-integration-cellsd.svg"
+  },
+  {
+    "file": "48138-integration-advisorsd.svg",
+    "title": "48138-integration-advisorsd",
+    "category": "integration-suite",
+    "library": "integration-suite",
+    "size": "L",
+    "path": "integration-suite/48138-integration-advisorsd.svg"
+  },
+  {
+    "file": "48139-integration-assessmentsd.svg",
+    "title": "48139-integration-assessmentsd",
+    "category": "integration-suite",
+    "library": "integration-suite",
+    "size": "L",
+    "path": "integration-suite/48139-integration-assessmentsd.svg"
+  },
+  {
+    "file": "48140-migration-assessmentsd.svg",
+    "title": "48140-migration-assessmentsd",
+    "category": "integration-suite",
+    "library": "integration-suite",
+    "size": "L",
+    "path": "integration-suite/48140-migration-assessmentsd.svg"
+  },
+  {
+    "file": "48141-open-connectorssd.svg",
+    "title": "48141-open-connectorssd",
+    "category": "integration-suite",
+    "library": "integration-suite",
+    "size": "L",
+    "path": "integration-suite/48141-open-connectorssd.svg"
+  },
+  {
+    "file": "48142-trading-partner-managementsd.svg",
+    "title": "48142-trading-partner-managementsd",
+    "category": "integration-suite",
+    "library": "integration-suite",
+    "size": "L",
+    "path": "integration-suite/48142-trading-partner-managementsd.svg"
+  },
+  {
+    "file": "48153-sap-business-accelerator--hubsd.svg",
+    "title": "48153-sap-business-accelerator- hubsd",
+    "category": "integration-suite",
+    "library": "integration-suite",
+    "size": "L",
+    "path": "integration-suite/48153-sap-business-accelerator--hubsd.svg"
+  },
+  {
+    "file": "48154-sap-api-hub-enterprise.svg",
+    "title": "48154-sap-api-hub-enterprise",
+    "category": "integration-suite",
+    "library": "integration-suite",
+    "size": "L",
+    "path": "integration-suite/48154-sap-api-hub-enterprise.svg"
+  },
+  {
+    "file": "sap.svg",
+    "title": "SAP",
+    "category": "sap-brands",
+    "library": "sap-brands",
+    "size": "default",
+    "path": "sap-brands/sap.svg"
+  },
+  {
+    "file": "sap-ariba.svg",
+    "title": "SAP Ariba",
+    "category": "sap-brands",
+    "library": "sap-brands",
+    "size": "default",
+    "path": "sap-brands/sap-ariba.svg"
+  },
+  {
+    "file": "sap-business-network.svg",
+    "title": "SAP Business Network",
+    "category": "sap-brands",
+    "library": "sap-brands",
+    "size": "default",
+    "path": "sap-brands/sap-business-network.svg"
+  },
+  {
+    "file": "sap-concur.svg",
+    "title": "SAP Concur",
+    "category": "sap-brands",
+    "library": "sap-brands",
+    "size": "default",
+    "path": "sap-brands/sap-concur.svg"
+  },
+  {
+    "file": "sap-customer-experience.svg",
+    "title": "SAP Customer Experience",
+    "category": "sap-brands",
+    "library": "sap-brands",
+    "size": "default",
+    "path": "sap-brands/sap-customer-experience.svg"
+  },
+  {
+    "file": "sap-leanix.svg",
+    "title": "SAP LeanIX",
+    "category": "sap-brands",
+    "library": "sap-brands",
+    "size": "default",
+    "path": "sap-brands/sap-leanix.svg"
+  },
+  {
+    "file": "sap-s4hana.svg",
+    "title": "SAP S4HANA",
+    "category": "sap-brands",
+    "library": "sap-brands",
+    "size": "default",
+    "path": "sap-brands/sap-s4hana.svg"
+  },
+  {
+    "file": "sap-s4hana-cloud.svg",
+    "title": "SAP S4HANA Cloud",
+    "category": "sap-brands",
+    "library": "sap-brands",
+    "size": "default",
+    "path": "sap-brands/sap-s4hana-cloud.svg"
+  },
+  {
+    "file": "sap-signavio.svg",
+    "title": "SAP Signavio",
+    "category": "sap-brands",
+    "library": "sap-brands",
+    "size": "default",
+    "path": "sap-brands/sap-signavio.svg"
+  },
+  {
+    "file": "sap-successfactors.svg",
+    "title": "SAP SuccessFactors",
+    "category": "sap-brands",
+    "library": "sap-brands",
+    "size": "default",
+    "path": "sap-brands/sap-successfactors.svg"
+  }
+]
